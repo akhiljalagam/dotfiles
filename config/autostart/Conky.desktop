@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=conky -d
+Name=Conky
+Type=Application
+Version=1.0
+Hidden=false
+Comment=starts conky
+RunHook=0
+

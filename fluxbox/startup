@@ -1,0 +1,19 @@
+#!/bin/sh
+# what's good?
+xmodmap "/home/czar/.Xmodmap"
+
+xinput set-prop 'BenQ ZOWIE BenQ ZOWIE Gaming Mouse' "libinput Accel Profile Enabled" 0, 1 &
+xinput set-prop 'BenQ ZOWIE BenQ ZOWIE Gaming Mouse' "Coordinate Transformation Matrix" 1 0 0 0 1 0 0 0 1 &
+xinput set-prop 'BenQ ZOWIE BenQ ZOWIE Gaming Mouse' "libinput Accel Speed" -0.25 &
+
+feh --bg-tile '/usr/share/backgrounds/awp3.png' &
+
+conky -d &
+pasystray &
+caffeine &
+
+setxkbmap cz &
+
+picom --vsync -r 12 --no-fading-openclose -b &
+
+exec fluxbox
