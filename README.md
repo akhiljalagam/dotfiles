@@ -30,4 +30,4 @@ https://github.com/phisch/phinger-cursors
 ###### Fluxbox:
 ![fluxbox](/screenshots/fluxbox.png)
 ###### LXQT + Openbox:
-![lxqt](/screenshots/lxqt_openbox.png)
+![lxqt+openbox](/screenshots/lxqt_openbox_v2.png)
