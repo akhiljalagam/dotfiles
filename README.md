@@ -27,7 +27,7 @@ https://www.pling.com/p/1412411
 https://github.com/phisch/phinger-cursors
 ```
 
-###### Fluxbox:
-![fluxbox](/screenshots/fluxbox.png)
 ###### LXQT + Openbox:
 ![lxqt+openbox](/screenshots/lxqt_openbox_v3.png)
+###### Fluxbox:
+![fluxbox](/screenshots/fluxbox.png)
