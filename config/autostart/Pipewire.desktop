@@ -5,7 +5,6 @@ Type=Application
 Name=Pipewire
 Comment=Pipewire
 Exec=pipewire &
-OnlyShowIn=XFCE;
 RunHook=0
 StartupNotify=false
 Terminal=false
