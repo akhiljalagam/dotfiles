@@ -5,6 +5,7 @@ Type=Application
 Name=BenQ ZOWIE Sens Fix
 Comment=Fixes the sensitivity
 Exec=/home/czar/zowie.sh
+OnlyShowIn=XFCE;
 RunHook=0
 StartupNotify=false
 Terminal=false
