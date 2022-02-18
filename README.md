@@ -25,6 +25,7 @@ Cursor: phinger-cursors
 
 https://www.pling.com/p/1412411
 https://github.com/phisch/phinger-cursors
+https://github.com/mehedirm6244/My_XFCE_dotties/tree/main/themes/gtk-themes/darknord-gtk-theme
 ```
 
 ###### LXQT + Openbox:
