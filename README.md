@@ -1,7 +1,7 @@
 # dotfiles
 
 [![forthebadge](https://forthebadge.com/images/badges/just-plain-nasty.svg)](https://forthebadge.com) 
-[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com) 
+[![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com) 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 
 <br/>
@@ -39,7 +39,8 @@ https://github.com/mehedirm6244/My_XFCE_dotties/tree/main/themes/gtk-themes/dark
 ###### Fluxbox:
 ![fluxbox](/screenshots/fluxbox.png)
 
-
+<br/>
+<br/>
 
 ## Build OBS Studio with CEF binary on Void Linux
 ```
