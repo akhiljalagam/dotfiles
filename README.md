@@ -18,8 +18,9 @@ https://github.com/romkatv/powerlevel10k
 
 ###### Font
 ```
-Monoscape: IBM Plex Nerd Patch (BlexMono)
-Desktop: Ubuntu (ttf-ubuntu-font-family)
+Terminal: IBM Plex Nerd Patch (BlexMono)
+Conky + i3lock: Liberation Mono
+Desktop: Roboto
 
 https://www.nerdfonts.com/font-downloads
 ```
