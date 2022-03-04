@@ -27,7 +27,7 @@ https://www.nerdfonts.com/font-downloads
 
 ###### Themes
 ```
-GTK 2 & 3: darknord-gtk-theme
+GTK 2 & 3: Kripton
 Icons: Blue-Zafiro-Plus
 Cursor: phinger-cursors
 
@@ -36,10 +36,8 @@ https://github.com/phisch/phinger-cursors
 https://github.com/mehedirm6244/My_XFCE_dotties/tree/main/themes/gtk-themes/darknord-gtk-theme
 ```
 
-###### LXQT + Openbox:
-![lxqt+openbox](/screenshots/lxqt.png)
-###### Fluxbox:
-![fluxbox](/screenshots/fluxbox.png)
+###### LXQt Desktop Screenshot:
+![desktoppreview](screenshot.png)
 
 <br/>
 <br/>
