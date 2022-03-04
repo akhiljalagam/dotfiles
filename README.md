@@ -20,7 +20,7 @@ https://github.com/romkatv/powerlevel10k
 ```
 Terminal: IBM Plex Nerd Patch (BlexMono)
 Conky + i3lock: Liberation Mono
-Desktop: Roboto
+Desktop: Liberation Sans
 
 https://www.nerdfonts.com/font-downloads
 ```
