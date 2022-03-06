@@ -34,6 +34,8 @@ Cursor: phinger-cursors
 https://www.pling.com/p/1365372
 https://www.pling.com/p/1412411
 https://github.com/phisch/phinger-cursors
+
+OpenBox theme: https://www.pling.com/p/1354673/
 ```
 
 ###### LXQt Desktop Screenshot:
