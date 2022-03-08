@@ -6,7 +6,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-jeffs-keyboard.svg)](https://forthebadge.com)
 
 <br/>
-Personal configurations
+Personal configurations for my main desktop, powered by Void Linux
 
 ###### Shell
 ```
