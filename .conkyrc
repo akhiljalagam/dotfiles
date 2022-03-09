@@ -15,8 +15,8 @@ conky.config = {
     draw_outline = false,
     draw_shades = false,
     extra_newline = false,
-    font = 'Liberation Mono:size=8.5',
-    gap_x = -1655,
+    font = 'Liberation Mono:size=9',
+    gap_x = -1680,
     gap_y = 15,
     minimum_height = 400,
     minimum_width = 200,
@@ -54,7 +54,9 @@ ${membar 6, 215}
 ${color grey}CPU${alignr}$color ${execi 1000 cat /proc/cpuinfo | grep 'model name' | sed -e 's/model name.*: //'| uniq | cut -c 1-25}
 ${color grey}Usage${alignr}$color $cpu%
 ${color grey}Frequency${alignr}$color $freq MHz
-${color grey}Temperature${alignr}$color ${hwmon 2 temp 1} °C
+${color grey}Temperature${alignr}$color ${exec sensors | grep 'Package id' | awk '{print $4}'}
+
+${color grey}NVIDIA Temp:${alignr}${color}+${execi 60 nvidia-settings -query [gpu:0]/GPUCoreTemp -t}°C
 
 ${color white}Name${alignr}CPU%   MEM%
 ${color lightgrey}${top name 1}${alignr}${top cpu 1} ${top mem 1}
