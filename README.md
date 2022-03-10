@@ -34,7 +34,7 @@ Fresh            | OpenBox: | https://www.pling.com/p/1725738
 ```
 
 ###### LXQt Desktop Screenshot:
-![desktoppreview](screenshot.png)
+![desktoppreview](screenshot10-03-2022.png)
 
 <br/>
 <br/>
