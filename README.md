@@ -41,20 +41,20 @@ Fresh            | OpenBox: | https://www.pling.com/p/1725738
 
 ## Build OBS Studio with CEF binary on Void Linux
 ```
-sudo xbps-install -Syu cmake gcc-objc gcc-objc++ glib-devel libcurl-devel libdrm-devel libglvnd-devel v4l-utils-devel libX11-devel libXcomposite-devel  libXinerama-devel libxkbcommon-devel LuaJIT-devel mbedtls-devel pciutils-devel pipewire-devel python3-devel qt5-svg-devel qt5-wayland-devel qt5-x11extras-devel swig x264-devel wayland-devel vlc-devel pulseaudio-devel fontconfig-devel freetype-devel ffmpeg-devel fdk-aac-devel glu glu-devel jack-devel
+sudo xbps-install -Syu cmake make gcc gcc-objc gcc-objc++ glib-devel libcurl-devel libdrm-devel libglvnd-devel v4l-utils-devel libXdamage libX11-devel libXcomposite-devel libXinerama-devel libxkbcommon-devel LuaJIT-devel mbedtls-devel pciutils-devel pipewire-devel python3-devel qt5-svg-devel qt5-wayland-devel qt5-x11extras-devel speexdsp-devel swig x264-devel wayland-devel vlc-devel pulseaudio-devel fontconfig-devel freetype-devel ffmpeg-devel fdk-aac-devel glu glu-devel jack-devel
 
-wget https://cdn-fastly.obsproject.com/downloads/cef_binary_4638_linux64.tar.bz2
-
-tar -xjf ./cef_binary_4638_linux64.tar.bz2
-
+wget https://cdn-fastly.obsproject.com/downloads/cef_binary_4280_linux64.tar.bz2
+  
+tar -xjf ./cef_binary_4280_linux64.tar.bz2
+  
 git clone --recursive https://github.com/obsproject/obs-studio.git
-
+  
 cd obs-studio
-
+  
 mkdir build && cd build
-
-cmake -DUNIX_STRUCTURE=0 -DCMAKE_INSTALL_PREFIX="${HOME}/obs-studio-portable" -DBUILD_BROWSER=ON -DCEF_ROOT_DIR="../../cef_binary_4638_linux64" ..
-
+  
+cmake -DUNIX_STRUCTURE=0 -DCMAKE_INSTALL_PREFIX="${HOME}/obs-studio-portable" -DBUILD_BROWSER=ON -DCEF_ROOT_DIR="../../cef_binary_4280_linux64" ..
+  
 make -j4 && make install
 ```
 Proper desktop entry (.desktop):
