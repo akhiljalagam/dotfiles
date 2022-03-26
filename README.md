@@ -23,6 +23,8 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 * **Cursors:** -----| [Phinger-cursors](https://www.pling.com/p/1690782)
 * **Openbox:** ----| [Fresh](https://www.pling.com/p/1725738)
 
+<br/>
+
 ** **
 
 <br/>
@@ -55,4 +57,4 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 <br/>
 
 ### LXQt Desktop Screenshot:
-![desktoppreview](screenshot10-03-2022.png)
+![desktoppreview](26_03_2022_screenshot.png)
