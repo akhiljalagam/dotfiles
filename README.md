@@ -7,6 +7,8 @@
 <br/>
 Personal configurations for my main desktop, powered by Void Linux
 
+** **
+
 ###### Shell
 zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
@@ -22,6 +24,8 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 * **Openbox:** ----| [Fresh](https://www.pling.com/p/1725738)
 
 ** **
+
+<br/>
 
 ### How to: Pipewire (w/ Wireplumber) on Void Linux
 * `sudo xbps-install pipewire alsa-pipewire wireplumber`
@@ -47,6 +51,8 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 * Reboot
 
 ** **
+
+<br/>
 
 ### LXQt Desktop Screenshot:
 ![desktoppreview](screenshot10-03-2022.png)
