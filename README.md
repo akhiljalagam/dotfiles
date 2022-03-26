@@ -28,7 +28,7 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 <br/>
 
 ### How to: Pipewire (w/ Wireplumber) on Void Linux
-* `sudo xbps-install pipewire alsa-pipewire wireplumber`
+* `sudo xbps-install -Suy pipewire alsa-pipewire wireplumber`
 
 * Edit `/usr/share/pipewire/pipewire.conf` :
   - ```
