@@ -1,4 +1,4 @@
-<h2 align="center">CZARHEX DOTFILES</h2>
+<h2 align="center">**CZARHEX DOTFILES**</h2>
 
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com) 
 [![forthebadge](https://forthebadge.com/images/badges/just-plain-nasty.svg)](https://forthebadge.com) 
