@@ -19,9 +19,9 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 
 ###### Themeing
 * **GTK 2,3,4:** ---| [Kripton](https://www.pling.com/p/1365372)
-* **Icons:** ---------| [Blue-Zafiro-Plus](https://www.pling.com/p/1412411)
+* **Icons:** ---------| [Qogir-dark](https://www.pling.com/p/1296407)
 * **Cursors:** -----| [Phinger-cursors](https://www.pling.com/p/1690782)
-* **Openbox:** ----| [Fresh](https://www.pling.com/p/1725738)
+* **Openbox:** ----| [Archlabs-Dark](https://github.com/void-linux/void-packages/tree/master/srcpkgs/archlabs-themes)
 
 <br/>
 
@@ -56,5 +56,5 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 
 <br/>
 
-### LXQt Desktop Screenshot:
+### LXQt Desktop Screenshot: (26-03-2022)
 ![desktoppreview](26_03_2022_screenshot.png)
