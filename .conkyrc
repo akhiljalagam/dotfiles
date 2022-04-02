@@ -43,7 +43,9 @@ conky.config = {
 }
 
 conky.text = [[
-
+# ---
+# Font used for the clock ---> CP Mono <--- https://github.com/chrissimpkins/codeface/tree/master/fonts/cp-mono
+# ---
 ${alignc}${color 7affff}${font CPMono_v07:pixelsize=35}${time %H:%M}
 ${font Liberation Mono:pixelsize=12}${color grey}Date$alignr$color ${time %a, %d-%m-%Y}
 
@@ -66,7 +68,7 @@ ${color grey}NVIDIA Temp${alignr}${color}+${execi 60 nvidia-settings -query [gpu
 # ----
 # AMD
 # ----
-# nothing over here yet.
+# Nothing over here yet.
 
 / ${alignr}$color${fs_used /}/${fs_size /}
 /home ${alignr}$color${fs_used /home}/${fs_size /home}
