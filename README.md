@@ -14,7 +14,7 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 
 ###### Font
 * **Terminal:** [IBM Plex Nerd Patch (BlexMono)](https://www.nerdfonts.com/font-downloads)
-* **Conky + i3lock:** Liberation Mono
+* **Conky** Liberation Mono + CP Mono
 * **Desktop:** Cantarell
 
 ###### Themeing
@@ -25,6 +25,7 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 
 ###### Other
 * **Display manager:** LightDM w/ GTK3 greeter && IBM Plex font
+* **Screensaver & locker:** light-locker (no longer using i3lock)
 
 ###### To-do
 * Dotfiles install shell script
