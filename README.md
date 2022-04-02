@@ -18,7 +18,7 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 * **Desktop:** Cantarell
 
 ###### Themeing
-* **GTK 2,3,4:** ---| [Kripton](https://www.pling.com/p/1365372)
+* **GTK 2,3,4:** ---| [Otis \ Forest / Standard buttons](https://www.pling.com/p/1619506)
 * **Icons:** ---------| [Qogir-dark](https://www.pling.com/p/1296407)
 * **Cursors:** -----| [Phinger-cursors](https://www.pling.com/p/1690782)
 * **Openbox:** ----| [Archlabs-Dark](https://github.com/void-linux/void-packages/tree/master/srcpkgs/archlabs-themes)
