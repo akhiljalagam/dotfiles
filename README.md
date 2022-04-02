@@ -24,7 +24,7 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 * **Openbox:** ----| [Archlabs-Dark](https://github.com/void-linux/void-packages/tree/master/srcpkgs/archlabs-themes)
 
 ###### Other
-* **Display manager:** LightDM w/ GTK ^ && IBM Plex font
+* **Display manager:** LightDM w/ GTK3 greeter ^ && IBM Plex font
 
 ###### To-do
 * Dotfiles install shell script
