@@ -15,13 +15,19 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 ###### Font
 * **Terminal:** [IBM Plex Nerd Patch (BlexMono)](https://www.nerdfonts.com/font-downloads)
 * **Conky + i3lock:** Liberation Mono
-* **Desktop:** Liberation Sans
+* **Desktop:** Cantarell
 
 ###### Themeing
 * **GTK 2,3,4:** ---| [Kripton](https://www.pling.com/p/1365372)
 * **Icons:** ---------| [Qogir-dark](https://www.pling.com/p/1296407)
 * **Cursors:** -----| [Phinger-cursors](https://www.pling.com/p/1690782)
 * **Openbox:** ----| [Archlabs-Dark](https://github.com/void-linux/void-packages/tree/master/srcpkgs/archlabs-themes)
+
+###### Other
+* **Display manager:** LightDM w/ GTK ^ && IBM Plex font
+
+###### To-do
+* Dotfiles install shell script
 
 <br/>
 
