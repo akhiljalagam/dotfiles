@@ -47,9 +47,9 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
     ```
 
 * Run these commands :
-  - `mkdir -p /etc/alsa/conf.d`
-  - `ln -s /usr/share/alsa/alsa.conf.d/50-pipewire.conf /etc/alsa/conf.d`
-  - `ln -s /usr/share/alsa/alsa.conf.d/99-pipewire-default.conf /etc/alsa/conf.d`
+  - `sudo mkdir -p /etc/alsa/conf.d`
+  - `sudo ln -s /usr/share/alsa/alsa.conf.d/50-pipewire.conf /etc/alsa/conf.d`
+  - `sudo ln -s /usr/share/alsa/alsa.conf.d/99-pipewire-default.conf /etc/alsa/conf.d`
 
 * Edit `/etc/pulse/client.conf` :
   - by replacing `; autospawn = yes` with `autospawn = no`
