@@ -87,5 +87,5 @@ ${color lightgrey}${top name 3}${alignr}${top cpu 3} ${top mem 3}
 ${color lightgrey}${top name 4}${alignr}${top cpu 4} ${top mem 4}
 ${color lightgrey}${top name 5}${alignr}${top cpu 5} ${top mem 5}
 
-${color white}Weather report: ${color lightgrey}${execi 1000 curl https://wttr.in/Kyjov\?0Tq}
+${color white}Weather report: ${color lightgrey}${execi 1000 curl https://wttr.in/YOURCITY\?0Tq}
 ]];
