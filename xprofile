@@ -1,0 +1,5 @@
+#! /bin/sh
+# LIGHTDM AUTOEXEC
+
+pipewire &
+setxkbmap cz &
