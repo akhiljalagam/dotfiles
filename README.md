@@ -26,6 +26,8 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 ###### Other
 * **Display manager:** LightDM w/ GTK3 greeter && IBM Plex font
 * **Screensaver & locker:** light-locker (no longer using i3lock)
+* **Mixer:** pavucontrol-qt
+* **Caffeine:** caffeine-ng
 
 ###### To-do
 * Dotfiles install shell script
