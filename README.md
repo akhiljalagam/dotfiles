@@ -62,5 +62,5 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 
 <br/>
 
-### LXQt Desktop Screenshot: (26-03-2022)
-![desktoppreview](26_03_2022_screenshot.png)
+### LXQt Desktop Screenshot (main)
+![desktoppreview](02_04_2022.png)
