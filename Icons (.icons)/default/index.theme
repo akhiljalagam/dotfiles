@@ -1,4 +1,5 @@
 # Written by lxqt-config-appearance
+# Default cursor theme
 [Icon Theme]
 Name=Default
 Comment=Default cursor theme
