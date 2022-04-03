@@ -41,7 +41,7 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 ### How to: Pipewire (w/ Wireplumber) on Void Linux
 * `sudo xbps-install -Sy pipewire alsa-pipewire wireplumber`
 
-* Edit `/usr/share/pipewire/pipewire.conf` :
+* Edit `/usr/share/pipewire/pipewire.conf` like so (usually last lines in config) :
   - ```
     context.exec = [
         { path = "/usr/bin/wireplumber" args = "" }
@@ -57,7 +57,7 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 * Edit `/etc/pulse/client.conf` :
   - by replacing `; autospawn = yes` with `autospawn = no`
 
-* Add `pipewire &` in your .xinitrc
+* Add `pipewire &` in your .xinitrc (.xprofile if using LightDM)
 
 * Reboot
 
