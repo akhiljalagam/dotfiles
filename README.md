@@ -57,7 +57,7 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 * Edit `/etc/pulse/client.conf` :
   - by replacing `; autospawn = yes` with `autospawn = no`
 
-* Add `pipewire &` in your .xinitrc (.xprofile if using LightDM)
+* Add `pipewire &` in your .xinitrc (.xprofile if using a display manager, like LightDM, GDM, SDDM, LXDM)
 
 * Reboot (you may also now remove pulseaudio, `sudo xbps-remove -RF pulseaudio pulseaudio-utils`)
 
