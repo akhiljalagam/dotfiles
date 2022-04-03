@@ -61,7 +61,7 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 
 * Reboot (you may also now remove pulseaudio, `sudo xbps-remove -RF pulseaudio pulseaudio-utils`)
 
-Credit: [u/ajshell1's post](https://www.reddit.com/r/voidlinux/comments/lp5w87/how_i_got_pipewire_working_on_void_as_a_pulse/)
+Credit: [u/ajshell1's post](https://www.reddit.com/r/voidlinux/comments/lp5w87/how_i_got_pipewire_working_on_void_as_a_pulse/), altered their guide
 
 ** **
 
