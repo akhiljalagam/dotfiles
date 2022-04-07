@@ -22,12 +22,12 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 * **Icons:** ---------| [Qogir-dark](https://www.pling.com/p/1296407)
 * **Cursors:** -----| [Phinger-cursors](https://www.pling.com/p/1690782)
 * **Openbox:** ----| [Archlabs-Dark](https://github.com/void-linux/void-packages/tree/master/srcpkgs/archlabs-themes)
+* **LXQt:** -----------| [Carbon](https://www.pling.com/p/1566923)
 
 ###### Other
 * **Display manager:** LightDM w/ GTK3 greeter && IBM Plex font
 * **Screensaver & locker:** light-locker (no longer using i3lock)
-* **Mixer:** pavucontrol-qt
-* **Caffeine:** caffeine-ng
+* **Misc:** pavucontrol-qt, caffeine-ng
 
 ###### To-do
 * Dotfiles install shell script
