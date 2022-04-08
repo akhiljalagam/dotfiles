@@ -18,7 +18,7 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 * **Desktop:** Cantarell
 
 ###### Themeing
-* **GTK:** ----------| [Solarized BLACK Colors](https://www.pling.com/p/1388140)
+* **GTK:** ----------| [Otis Forest Standard](https://www.pling.com/p/1619506)
 * **Icons:** ---------| [Qogir-dark](https://www.pling.com/p/1296407)
 * **Cursors:** -----| [phinger-cursors](https://www.pling.com/p/1690782)
 * **Openbox:** ----| [deadSimple-0a](https://www.pling.com/p/1017289)
