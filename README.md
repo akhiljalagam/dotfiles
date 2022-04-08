@@ -18,7 +18,7 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 * **Desktop:** Cantarell
 
 ###### Themeing
-* **GTK 2,3,4:** ---| [Plata Noir Compact](https://github.com/void-linux/void-packages/tree/master/srcpkgs/plata-theme)
+* **GTK 2,3,4:** ---| [paradise](https://github.com/Manas140/paradise)
 * **Icons:** ---------| [Qogir-dark](https://www.pling.com/p/1296407)
 * **Cursors:** -----| [phinger-cursors](https://www.pling.com/p/1690782)
 * **Openbox:** ----| [deadSimple-0a](https://www.pling.com/p/1017289)
@@ -26,7 +26,7 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 
 ###### Other
 * **Display manager:** LightDM w/ GTK3 greeter && IBM Plex font
-* **Screensaver & locker:** light-locker (no longer using i3lock)
+* **Screensaver & locker:** light-locker
 * **Misc:** pavucontrol-qt, caffeine-ng
 
 ###### To-do
