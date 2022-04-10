@@ -25,7 +25,7 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 * **LXQt:** ----------| [Carbon](https://www.pling.com/p/1566923)
 
 ###### Other
-* **Display manager:** LightDM w/ GTK3 greeter && IBM Plex font
+* **Display manager:** LightDM w/ GTK3 greeter
 * **Screensaver & locker:** light-locker
 * **Misc:** pavucontrol-qt, caffeine-ng
 
