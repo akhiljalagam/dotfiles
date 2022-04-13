@@ -22,7 +22,7 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 * **Icons:** ---------| [Qogir-dark](https://www.pling.com/p/1296407)
 * **Cursors:** -----| [phinger-cursors](https://www.pling.com/p/1690782)
 * **Openbox:** ----| [Overnight](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-* **LXQt:** ----------| [Carbon](https://www.pling.com/p/1566923)
+* **LXQt:** ----------| [Black Beauty](https://www.pling.com/p/1679919)
 
 ###### Other
 * **Display manager:** LightDM w/ GTK3 greeter
