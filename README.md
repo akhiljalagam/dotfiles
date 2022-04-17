@@ -68,6 +68,6 @@ Credit: [u/ajshell1's post](https://www.reddit.com/r/voidlinux/comments/lp5w87/h
 <br/>
 
 ### LXQt Desktop Screenshot (main)
-![desktoppreview](08-04-2022.png)
+![desktoppreview](2022-04-17.png)
 
 ![rat](level5rat.png)
