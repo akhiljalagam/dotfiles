@@ -11,10 +11,10 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 * **Desktop:** Cantarell
 
 ###### Themeing
-* **GTK:** ----------| [Colloid-dark (Tweaks: Rimless, Black)](https://www.pling.com/p/1661959)
-* **Icons:** ---------| [Adwaita](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-* **Cursors:** -----| [phinger-cursors](https://www.pling.com/p/1690782)
-* **Gnome shell:** -| [Nova Shell Fixed](https://www.pling.com/p/1197147)
+* **GTK:** -------------| [Colloid-dark (Tweaks: Rimless, Black)](https://www.pling.com/p/1661959)
+* **Icons:** ------------| [Adwaita](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* **Cursors:** --------| [phinger-cursors](https://www.pling.com/p/1690782)
+* **Gnome shell:** --| [Nova Shell Fixed](https://www.pling.com/p/1197147)
 
 ###### Other
 * **Display manager:** GDM
