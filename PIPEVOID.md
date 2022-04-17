@@ -1,3 +1,5 @@
+** **
+
 <br/>
 
 ### How to: Pipewire (w/ Wireplumber) on Void Linux
@@ -19,7 +21,7 @@
 * Edit `/etc/pulse/client.conf` :
   - by replacing `; autospawn = yes` with `autospawn = no`
 
-* Add `pipewire &` in your .xinitrc (.xprofile if using a display manager, like LightDM, GDM, SDDM, LXDM)
+* Add `pipewire &` in your XDG Autostart, .xprofile or .xinitrc
 
 * Reboot (you may also now remove pulseaudio, `sudo xbps-remove -RF pulseaudio pulseaudio-utils`)
 
@@ -27,3 +29,4 @@ Credit: [u/ajshell1's post](https://www.reddit.com/r/voidlinux/comments/lp5w87/h
 
 <br/>
 
+** **
