@@ -1,9 +1,5 @@
-<h2 align="center">CZARHEX DOTFILES</h2>
-
-zamn 1
-
 <br/>
-Personal configurations for my main desktop, powered by Void Linux
+Personal configurations for my thinkpad x260 laptop, powered by Void Linux
 
 ** **
 
@@ -12,61 +8,41 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 
 ###### Font
 * **Terminal:** [IBM Plex Nerd Patch (BlexMono)](https://www.nerdfonts.com/font-downloads)
-* **Conky** Liberation Mono + CP Mono
-* **Desktop:** SF Pro Display
+* **Desktop:** Cantarell
 
 ###### Themeing
-* **GTK:** ----------| [Graphite Dark (Tweaks: Rimless, Normal, Black, Compact)](https://www.pling.com/p/1598493)
-* **Icons:** ---------| [Qogir-dark](https://www.pling.com/p/1296407)
+* **GTK:** ----------| [Colloid-dark (Tweaks: Rimless, Black)](https://www.pling.com/p/1661959)
+* **Icons:** ---------| [Adwaita](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * **Cursors:** -----| [phinger-cursors](https://www.pling.com/p/1690782)
-* **Openbox:** ----| [Overnight](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-* **LXQt:** ----------| [Black Beauty](https://www.pling.com/p/1679919)
+* **Gnome shell:** -| [Nova Shell Fixed](https://www.pling.com/p/1197147)
 
 ###### Other
-* **Display manager:** LightDM w/ GTK3 greeter
-* **Screensaver & locker:** light-locker
-* **Misc:** pavucontrol-qt, caffeine-ng
-
-###### To-do
-* Dotfiles install shell script
-
-<br/>
-
-** **
-
-<br/>
-
-### How to: Pipewire (w/ Wireplumber) on Void Linux
-* `sudo xbps-install -Sy pipewire alsa-pipewire wireplumber`
-
-* Edit `/usr/share/pipewire/pipewire.conf` like so (usually last lines in config) :
-  - ```
-    context.exec = [
-        { path = "/usr/bin/wireplumber" args = "" }
-        { path = "/usr/bin/pipewire" args = "-c pipewire-pulse.conf" }
-    ]
-    ```
-
-* Run these commands :
-  - `sudo mkdir -p /etc/alsa/conf.d`
-  - `sudo ln -s /usr/share/alsa/alsa.conf.d/50-pipewire.conf /etc/alsa/conf.d`
-  - `sudo ln -s /usr/share/alsa/alsa.conf.d/99-pipewire-default.conf /etc/alsa/conf.d`
-
-* Edit `/etc/pulse/client.conf` :
-  - by replacing `; autospawn = yes` with `autospawn = no`
-
-* Add `pipewire &` in your .xinitrc (.xprofile if using a display manager, like LightDM, GDM, SDDM, LXDM)
-
-* Reboot (you may also now remove pulseaudio, `sudo xbps-remove -RF pulseaudio pulseaudio-utils`)
-
-Credit: [u/ajshell1's post](https://www.reddit.com/r/voidlinux/comments/lp5w87/how_i_got_pipewire_working_on_void_as_a_pulse/), altered their guide
+* **Display manager:** GDM
+* **Screensaver & locker:** gnome-screensaver
+* **Misc:** caffeine-ng, networkmananger-openvpn plugin w/ ProtonVPN, gnome-weather
+* **Gnome version:** 41.3 (41.5?)
+* **Gnome extensions:**
+  - Appindicator support
+  - Application Volume Mixer
+  - ArcMenu
+  - cpufreq
+  - Just Perfection
+  - Rounded System Menu Buttons
+  - Sound Input & Output Device Chooser
+  - Thinkpad Battery Threshold
+  - User Themes
+  - Workspace indicator
+  - Removable Drive Menu
 
 ** **
 
 <br/>
 
-### LXQt Desktop Screenshot (main)
-![desktoppreview](2022-04-17.png)
+### GNOME desktop preview (x260)
+![laptoppreviewws1](XGWS1.png)
+![laptoppreviewws2](XGWS2.png)
+![laptoppreviewws3](XGWS3.png)
 
-![rat](level5rat.png)
+** **
 
+![laptopabout](XSI.png)
