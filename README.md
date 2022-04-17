@@ -18,7 +18,7 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 * **Desktop:** SF Pro Display
 
 ###### Themeing
-* **GTK:** ----------| [Otis Forest Standard](https://www.pling.com/p/1619506)
+* **GTK:** ----------| [Graphite Dark (Tweaks: Rimless, Normal, Black, Compact)](https://www.pling.com/p/1598493)
 * **Icons:** ---------| [Qogir-dark](https://www.pling.com/p/1296407)
 * **Cursors:** -----| [phinger-cursors](https://www.pling.com/p/1690782)
 * **Openbox:** ----| [Overnight](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
