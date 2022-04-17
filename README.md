@@ -6,8 +6,10 @@
 
 <br/>
 Personal configurations for my main desktop, powered by Void Linux
-
-![test](https://github.com/czarhex/dotfiles/blob/main/MAIN.md)
+** **
+* ![Setup: Main PC (LXQt)](https://github.com/czarhex/dotfiles/blob/main/OVERLORD.md)
+* ![Setup: Thinkpad X260 (GNOME DE)](https://github.com/czarhex/dotfiles/blob/main/RECKLESS.md)
+* ![How to: Pipewire on Void w/ Wireplumber](https://github.com/czarhex/dotfiles/blob/main/PIPEVOID.md)
 
 ** **
 
