@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=exec /usr/libexec/xdg-desktop-portal-gtk
+Name=XDG GTK
+Type=Application
+Version=1.0
