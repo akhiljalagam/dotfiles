@@ -7,6 +7,8 @@
 <br/>
 Personal configurations for my main desktop, powered by Void Linux
 
+![test](https://github.com/czarhex/dotfiles/blob/main/MAIN.md)
+
 ** **
 
 ###### Shell
