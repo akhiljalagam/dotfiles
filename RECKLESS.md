@@ -22,17 +22,17 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 * **Misc:** caffeine-ng, networkmananger-openvpn plugin w/ ProtonVPN, gnome-weather
 * **Gnome version:** 41.3 (41.5?)
 * **Gnome extensions:**
-  - Appindicator support
-  - Application Volume Mixer
-  - ArcMenu
-  - cpufreq
-  - Just Perfection
-  - Rounded System Menu Buttons
-  - Sound Input & Output Device Chooser
-  - Thinkpad Battery Threshold
-  - User Themes
-  - Workspace indicator
-  - Removable Drive Menu
+  - Appindicator support ![W](https://extensions.gnome.org/extension/615/appindicator-support/)
+  - Application Volume Mixer ![W](https://extensions.gnome.org/extension/3499/application-volume-mixer/)
+  - ArcMenu ![W](https://extensions.gnome.org/extension/3628/arcmenu/)
+  - cpufreq ![W](https://extensions.gnome.org/extension/1082/cpufreq/)
+  - Just Perfection ![W](https://extensions.gnome.org/extension/3843/just-perfection/)
+  - Rounded System Menu Buttons ![W](https://extensions.gnome.org/extension/4693/rounded-system-menu-buttons/)
+  - Sound Input & Output Device Chooser ![W](https://extensions.gnome.org/extension/906/sound-output-device-chooser/)
+  - Thinkpad Battery Threshold ![W](https://extensions.gnome.org/extension/4798/thinkpad-battery-threshold/)
+  - User Themes ![W](https://extensions.gnome.org/extension/19/user-themes/)
+  - Workspace indicator ![W](https://github.com/tty2/horizontal-workspace-indicator)
+  - Removable Drive Menu (Installed by default)
 
 ** **
 
