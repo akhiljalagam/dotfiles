@@ -12,7 +12,7 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 
 ###### Themeing
 * **GTK:** -------------| [Colloid-dark (Tweaks: Rimless, Black)](https://www.pling.com/p/1661959)
-* **Icons:** ------------| [Adwaita](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* **Icons:** ------------| [Hydrogen](https://github.com/tau-OS/tau-hydrogen)
 * **Cursors:** --------| [phinger-cursors](https://www.pling.com/p/1690782)
 * **Gnome shell:** --| [Nova Shell Fixed](https://www.pling.com/p/1197147)
 
