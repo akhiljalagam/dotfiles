@@ -1,5 +1,5 @@
 <br/>
-Personal configurations for my thinkpad x260 laptop, powered by Void Linux
+Personal configurations for my thinkpad X260 laptop, powered by Void Linux
 
 ** **
 
@@ -19,30 +19,29 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 ###### Other
 * **Display manager:** GDM
 * **Screensaver & locker:** gnome-screensaver
-* **Misc:** caffeine-ng, networkmananger-openvpn plugin w/ ProtonVPN, gnome-weather
+* **Misc:** TLP, caffeine-ng, networkmananger-openvpn plugin w/ ProtonVPN, gnome-weather
 * **Gnome version:** 41.3 (41.5?)
 * **Gnome extensions:**
-  - Appindicator support [WWW](https://extensions.gnome.org/extension/615/appindicator-support/)
-  - Application Volume Mixer [WWW](https://extensions.gnome.org/extension/3499/application-volume-mixer/)
-  - ArcMenu [WWW](https://extensions.gnome.org/extension/3628/arcmenu/)
-  - cpufreq [WWW](https://extensions.gnome.org/extension/1082/cpufreq/)
-  - Just Perfection [WWW](https://extensions.gnome.org/extension/3843/just-perfection/)
-  - Rounded System Menu Buttons [WWW](https://extensions.gnome.org/extension/4693/rounded-system-menu-buttons/)
-  - Sound Input & Output Device Chooser [WWW](https://extensions.gnome.org/extension/906/sound-output-device-chooser/)
-  - Thinkpad Battery Threshold [WWW](https://extensions.gnome.org/extension/4798/thinkpad-battery-threshold/)
-  - User Themes [WWW](https://extensions.gnome.org/extension/19/user-themes/)
-  - Workspace indicator [WWW](https://github.com/tty2/horizontal-workspace-indicator)
-  - Removable Drive Menu (Installed by default)
+  - [Appindicator support](https://extensions.gnome.org/extension/615/appindicator-support/)
+  - [Application Volume Mixer](https://extensions.gnome.org/extension/3499/application-volume-mixer/)
+  - [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
+  - [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)
+  - [Rounded System Menu Buttons](https://extensions.gnome.org/extension/4693/rounded-system-menu-buttons/)
+  - [Sound Input & Output Device Chooser](https://extensions.gnome.org/extension/906/sound-output-device-chooser/)
+  - [Thinkpad Battery Threshold](https://extensions.gnome.org/extension/4798/thinkpad-battery-threshold/)
+  - [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
+  - [Workspace indicator](https://extensions.gnome.org/extension/3952/workspace-indicator/)
+  - [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/)
 
 ** **
 
 <br/>
 
 ### GNOME desktop preview (x260)
-![laptoppreviewws1](XGWS1.png)
-![laptoppreviewws2](XGWS2.png)
-![laptoppreviewws3](XGWS3.png)
+![laptoppreviewws1](images/XGWS1.png)
+![laptoppreviewws2](images/XGWS2.png)
+![laptoppreviewws3](images/XGWS3.png)
 
 ** **
 
-![laptopabout](XSI.png)
+![laptopabout](images/XSI.png)
