@@ -16,4 +16,4 @@ Personal configurations for my machines
 
 ** **
 
-![rat](level5rat.png)
+![rat](images/level5rat.png)
