@@ -1,5 +1,5 @@
 <br/>
-Personal configurations for my main desktop, powered by Void Linux
+Personal configurations for my main desktop (codename Overlord), powered by Void Linux
 
 ** **
 
@@ -13,7 +13,7 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 
 ###### Themeing
 * **GTK:** ----------| [Graphite Dark (Tweaks: Rimless, Normal, Black, Compact)](https://www.pling.com/p/1598493)
-* **Icons:** ---------| [Qogir-dark](https://www.pling.com/p/1296407)
+* **Icons:** ---------| [Obsidian Gray](https://www.pling.com/p/1169579)
 * **Cursors:** -----| [phinger-cursors](https://www.pling.com/p/1690782)
 * **Openbox:** ----| [Mythos](https://www.pling.com/p/1017804)
 * **LXQt:** ----------| [Black Beauty](https://www.pling.com/p/1679919)
