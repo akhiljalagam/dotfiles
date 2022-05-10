@@ -13,7 +13,7 @@ Personal configurations for my machines
 * ![Setup: Desktop | Overlord (LXQt+Openbox)](https://github.com/czarhex/dotfiles/blob/main/OVERLORD.md)
 * ![Setup: Thinkpad X260 | Nocturnal (GNOME)](https://github.com/czarhex/dotfiles/blob/main/RECKLESS.md)
 * ![Setup: Thinkpad T41 | Tenacious (I3-GAPS)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-<br/>
+
 * ![How to: Pipewire on Void w/ Wireplumber](https://github.com/czarhex/dotfiles/blob/main/PIPEVOID.md)
 
 ** **
