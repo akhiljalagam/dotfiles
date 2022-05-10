@@ -1,6 +1,3 @@
-<br/>
-Personal configurations for my main desktop (codename Overlord), powered by Void Linux
-
 ** **
 
 ###### Shell
@@ -24,8 +21,3 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 * **Misc:** pavucontrol-qt, caffeine-ng
 
 ** **
-
-<br/>
-
-### LXQt Desktop Screenshot (main)
-![desktoppreview](images/OVERLORD2022-05-03.png)
