@@ -10,7 +10,7 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 
 ###### Themeing
 * **GTK:** ----------| [Graphite Dark (Tweaks: Rimless, Normal, Black, Compact)](https://www.pling.com/p/1598493)
-* **Icons:** ---------| [Obsidian Gray](https://www.pling.com/p/1169579)
+* **Icons:** ---------| [Qogir Dark](https://www.pling.com/p/1296407)
 * **Cursors:** -----| [phinger-cursors](https://www.pling.com/p/1690782)
 * **Openbox:** ----| [Mythos](https://www.pling.com/p/1017804)
 * **LXQt:** ----------| [Black Beauty](https://www.pling.com/p/1679919)
