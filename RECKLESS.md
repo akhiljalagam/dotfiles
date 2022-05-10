@@ -1,6 +1,3 @@
-<br/>
-Personal configurations for my thinkpad X260 laptop, powered by Void Linux
-
 ** **
 
 ###### Shell
@@ -34,14 +31,3 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
   - [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/)
 
 ** **
-
-<br/>
-
-### GNOME desktop preview (x260)
-![laptoppreviewws1](images/XGWS1.png)
-![laptoppreviewws2](images/XGWS2.png)
-![laptoppreviewws3](images/XGWS3.png)
-
-** **
-
-![laptopabout](images/XSI.png)
