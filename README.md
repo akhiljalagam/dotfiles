@@ -12,7 +12,7 @@ Personal configurations for my machines
 
 * 「◉」 Setup: ⋅ [Overlord ⋅ (LXQt)](https://github.com/czarhex/dotfiles/blob/main/OVERLORD.md) ------------⟩ **B360M PRO-VD, i5-8600, 32GB, GTX 1650S**
 * 「◉」 Setup: ⋅ [Nocturnal ⋅ (GNOME)](https://github.com/czarhex/dotfiles/blob/main/NOCTURNAL.md) ------⟩ **Lenovo ThinkPad X260, i5-6200U, 8GB**
-* 「◉」 Setup: ⋅ [Tenacious ⋅ (I3-GAPS)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -----⟩ **IBM ThinkPad T41, Centrino, 2GB**
+* 「◉」 Setup: ⋅ [Tenacious ⋅ (I3-GAPS)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -----⟩ **IBM ThinkPad T41, Centrino, 2GB, ATI**
 
 ** **
 
