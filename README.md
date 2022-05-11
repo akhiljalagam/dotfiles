@@ -10,9 +10,10 @@ Personal configurations for my machines
 
 ** **
 
-* [◉ Setup: ⋅ Overlord ⋅ (LXQt) ------------⟩ Desktop](https://github.com/czarhex/dotfiles/blob/main/OVERLORD.md)
-* [◉ Setup: ⋅ Nocturnal ⋅ (GNOME) ------⟩ Lenovo ThinkPad X260](https://github.com/czarhex/dotfiles/blob/main/NOCTURNAL.md)
-* [◉ Setup: ⋅ Tenacious ⋅ (I3-GAPS) -----⟩ IBM ThinkPad T41](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* 「◉」 Setup: ⋅ [Overlord ⋅ (LXQt)](https://github.com/czarhex/dotfiles/blob/main/OVERLORD.md) ------------⟩ **B360M PRO-VD**
+* 「◉」 Setup: ⋅ [Nocturnal ⋅ (GNOME)](https://github.com/czarhex/dotfiles/blob/main/NOCTURNAL.md) ------⟩ **Lenovo ThinkPad X260**
+* 「◉」 Setup: ⋅ [Tenacious ⋅ (I3-GAPS)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -----⟩ **IBM ThinkPad T41**
+  - ** **
 * [How to: Pipewire on Void w/ Wireplumber](https://github.com/czarhex/dotfiles/blob/main/PIPEVOID.md)
 
 ** **
