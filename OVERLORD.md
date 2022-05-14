@@ -5,7 +5,6 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 
 ###### Font
 * **Terminal:** [IBM Plex Nerd Patch (BlexMono)](https://www.nerdfonts.com/font-downloads)
-* **Conky** Liberation Mono + CP Mono
 * **Desktop:** SF Pro Display
 
 ###### Themeing
@@ -17,6 +16,6 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 ###### Other
 * **Display manager:** LightDM w/ GTK3 greeter
 * **Screensaver & locker:** light-locker
-* **Misc:** pavucontrol-qt, caffeine-ng, tint2
+* **Misc:** pavucontrol-qt, caffeine-ng, tint2, conky
 
 ** **
