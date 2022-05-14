@@ -13,11 +13,10 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 * **Icons:** ---------| [Qogir Dark](https://www.pling.com/p/1296407)
 * **Cursors:** -----| [phinger-cursors](https://www.pling.com/p/1690782)
 * **Openbox:** ----| [Mythos](https://www.pling.com/p/1017804)
-* **LXQt:** ----------| [Black Beauty](https://www.pling.com/p/1679919)
 
 ###### Other
 * **Display manager:** LightDM w/ GTK3 greeter
 * **Screensaver & locker:** light-locker
-* **Misc:** pavucontrol-qt, caffeine-ng
+* **Misc:** pavucontrol-qt, caffeine-ng, tint2
 
 ** **
