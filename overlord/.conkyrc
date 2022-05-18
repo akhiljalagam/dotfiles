@@ -64,7 +64,7 @@ ${color grey}Temperature${alignr}$color ${exec sensors | grep 'Package id' | awk
 # Gets the name and temperature of an NVIDIA card, requires proprietary drivers
 # ------------------------------------------------------------------------------
 ${color grey}GPU${alignr}${color}${execi 1000 nvidia-smi --query-gpu=gpu_name --format=csv,noheader | cut -c 15-30}
-${color grey}NVIDIA Temp${alignr}${color}${execi 60 nvidia-settings -query [gpu:0]/GPUCoreTemp -t}°C
+${color grey}NVIDIA Temp${alignr}${color}${execi 30 nvidia-settings -query [gpu:0]/GPUCoreTemp -t}°C
 # ----
 # AMD
 # ----
@@ -83,6 +83,8 @@ ${color lightgrey}${top name 2}${alignr}${top cpu 2} ${top mem 2}
 ${color lightgrey}${top name 3}${alignr}${top cpu 3} ${top mem 3}
 ${color lightgrey}${top name 4}${alignr}${top cpu 4} ${top mem 4}
 ${color lightgrey}${top name 5}${alignr}${top cpu 5} ${top mem 5}
+
+${color white}[A] ${color grey}Volume: ${color lightgrey}${execi 1 pamixer --get-volume-human}
 
 ${color white}Weather report: ${color 7affff}${execi 420 curl https://wttr.in/\?0Tq}
 ]];
