@@ -19,3 +19,5 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 * **Misc:** pavucontrol-qt, caffeine-ng, tint2, conky
 
 ** **
+
+![ovelord-preview](images/2022-05-18-overlord.png)
