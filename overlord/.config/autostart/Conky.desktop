@@ -1,5 +1,5 @@
 [Desktop Entry]
-Exec=conky -d
+Exec=~/.config/conky/Regulus/start.sh
 Name=Conky
 Type=Application
 Version=1.0
