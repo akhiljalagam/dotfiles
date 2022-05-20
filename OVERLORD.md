@@ -11,7 +11,7 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 * **GTK:** ----------| [Graphite Dark (Tweaks: Rimless, Normal, Black, Compact)](https://www.pling.com/p/1598493)
 * **Icons:** ---------| [Tela Grey Dark](https://www.pling.com/p/1279924)
 * **Cursors:** -----| [phinger-cursors](https://www.pling.com/p/1690782)
-* **Openbox:** ----| [Mythos](https://www.pling.com/p/1017804)
+* **Openbox:** ----| [Siva Flat Op](https://www.pling.com/p/1017261)
 
 ###### Other
 * **Display manager:** LightDM w/ GTK3 greeter
