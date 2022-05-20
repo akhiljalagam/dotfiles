@@ -31,3 +31,5 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
   - [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/)
 
 ** **
+
+![nocturnal-preview](images/2022-05-20-nocturnal.png)
