@@ -5,9 +5,10 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com) 
 
 <br/>
-Personal configurations for my machines       
-
+Personal configurations for my machines    
 <br/>
+
+** **
 
 - [x] make this terrible repo
 - [ ] switch to different de/wm for overlord
