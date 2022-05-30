@@ -8,8 +8,11 @@
 Personal configurations for my machines
 
 <br/>
+
 - [x] make this terrible repo
-- [ ] switch to different wm for overlord
+- [ ] switch to different de/wm for overlord
+- [ ] get copious amounts of swag
+- [ ] bobux
 <br/>
 
 ** **
