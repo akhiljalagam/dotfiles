@@ -5,16 +5,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com) 
 
 <br/>
-Personal configurations for my machines    
-<br/>
-
-** **
-
-- [x] make this terrible repo
-- [ ] switch to different de/wm for overlord
-- [ ] get copious amounts of swag
-- [ ] bobux
-<br/>
+Personal configurations for my machines
 
 ** **
 
@@ -30,3 +21,7 @@ Personal configurations for my machines
 * [How to: Pipewire on Void w/ Wireplumber](https://github.com/czarhex/dotfiles/blob/main/PIPEVOID.md)
 
 ** **
+- [x] make this terrible repo
+- [ ] switch to different de/wm for overlord
+- [ ] get copious amounts of swag
+- [ ] bobux
