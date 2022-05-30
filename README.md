@@ -23,5 +23,6 @@ Personal configurations for my machines
 ** **
 - [x] make this terrible repo
 - [ ] switch to different de/wm for overlord
+- [ ] pipewire script
 - [ ] get copious amounts of swag
 - [ ] bobux
