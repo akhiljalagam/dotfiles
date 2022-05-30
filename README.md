@@ -26,3 +26,16 @@ Personal configurations for my machines
 - [ ] pipewire script
 - [ ] get copious amounts of swag
 - [ ] bobux
+
+
+<details><summary>DROPDOWN TEST</summary>
+<p>
+
+#### cool?
+
+    ```ruby
+      puts "be gone"
+    ```
+alright...
+</p>
+</details>
