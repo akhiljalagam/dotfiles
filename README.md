@@ -7,6 +7,7 @@
 <br/>
 Personal configurations for my machines
 
+<br/>
 - [x] make this terrible repo
 - [ ] switch to different wm for overlord
 <br/>
