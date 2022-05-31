@@ -31,6 +31,7 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
   - [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
   - [Workspace indicator](https://extensions.gnome.org/extension/3952/workspace-indicator/)
   - [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/)
+  - [Remove Alt+Tab Delay v2](https://extensions.gnome.org/extension/2741/remove-alttab-delay-v2/)
 
 ** **
 
