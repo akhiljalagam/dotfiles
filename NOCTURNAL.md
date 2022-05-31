@@ -7,17 +7,20 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 * **Terminal:** [IBM Plex Nerd Patch (BlexMono)](https://www.nerdfonts.com/font-downloads)
 * **Desktop:** Cantarell
 
-###### Themeing
-* **GTK:** -------------| [Colloid-dark (Tweaks: Rimless, Black)](https://www.pling.com/p/1661959)
-* **Icons:** ------------| [Hydrogen](https://github.com/tau-OS/tau-hydrogen)
-* **Cursors:** --------| [phinger-cursors](https://www.pling.com/p/1690782)
-* **Gnome shell:** --| [Nova Shell Fixed](https://www.pling.com/p/1197147)
+###### Looks
+
+| Elements | Theme | Tweaks |
+| --- | --- | --- |
+| GTK | [Colloid Dark](https://www.pling.com/p/1661959) | Rimless, Black |
+| Icons | [Hydrogen](https://github.com/tau-OS/tau-hydrogen) | *None* |
+| Cursors | [phinger-cursors](https://www.pling.com/p/1690782) | *None* |
+| Shell | [Nova Shell Fixed](https://www.pling.com/p/1197147) | *None* |
 
 ###### Other
 * **Display manager:** GDM
 * **Screensaver & locker:** gnome-screensaver
-* **Misc:** TLP, caffeine-ng, networkmananger-openvpn plugin w/ ProtonVPN, gnome-weather
-* **Gnome version:** 41
+* **Misc:** TLP, networkmananger-openvpn plugin w/ ProtonVPN, gnome-weather
+* **Gnome version:** 41.5
 * **Gnome extensions:**
   - [Appindicator support](https://extensions.gnome.org/extension/615/appindicator-support/)
   - [Application Volume Mixer](https://extensions.gnome.org/extension/3499/application-volume-mixer/)
