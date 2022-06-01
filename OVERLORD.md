@@ -5,7 +5,7 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 
 ###### Font
 * **Terminal:** [IBM Plex Nerd Patch (BlexMono)](https://www.nerdfonts.com/font-downloads)
-* **Desktop:** Cantarell
+* **Desktop:** SF Pro Display
 
 ###### Looks
 
@@ -18,7 +18,6 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 
 ###### Other
 * **Display manager:** LightDM w/ GTK3 greeter
-* **Screensaver & locker:** light-locker
 * **Misc:** caffeine-ng, conky, kitty
 * **Gnome version:** 41.5
 * **Gnome extensions:**
