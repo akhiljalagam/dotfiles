@@ -19,7 +19,7 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 ###### Other
 * **Display manager:** LightDM w/ GTK3 greeter
 * **Screensaver & locker:** light-locker
-* **Misc:** pavucontrol-qt, caffeine-ng, tint2, conky, picom
+* **Misc:** caffeine-ng, conky, kitty
 * **Gnome version:** 41.5
 * **Gnome extensions:**
   - [Appindicator support](https://extensions.gnome.org/extension/615/appindicator-support/)
