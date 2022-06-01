@@ -35,4 +35,4 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 
 ** **
 
-![ovelord-preview](images/2022-05-31-overlord.png)
+![ovelord-preview](images/2022-06-01-overlord.png)
