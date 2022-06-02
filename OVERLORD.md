@@ -17,7 +17,7 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 | Shell | *Same as GTK*, [^^^](https://www.pling.com/p/1598493) | *^^^* |
 
 ###### Other
-* **Display manager:** LightDM w/ GTK3 greeter
+* **Display manager:** GDM
 * **Misc:** caffeine-ng, conky, kitty
 * **Gnome version:** 41.5
 * **Gnome extensions:**
