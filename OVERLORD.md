@@ -11,14 +11,14 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 
 | Elements | Theme | Tweaks |
 | --- | --- | --- |
-| GTK | [Graphite Dark](https://www.pling.com/p/1598493) | Rimless, Normal, Black, Compact |
+| GTK + Shell | [Graphite Dark](https://www.pling.com/p/1598493) | Rimless, Normal, Black, Compact |
 | Icons | [WhiteSur](https://www.pling.com/p/1405756) | Black panel, Bold |
 | Cursors | [phinger-cursors](https://www.pling.com/p/1690782) | *None* |
-| Shell | *Same as GTK*, [^^^](https://www.pling.com/p/1598493) | *^^^* |
 
 ###### Other
 * **Display manager:** GDM
-* **Misc:** caffeine-ng, conky, kitty
+* **Screensaver:** gnome-screensaver
+* **Misc:** caffeine-ng, conky, kitty, gnome-weather
 * **Gnome version:** 41.5
 * **Gnome extensions:**
   - [Appindicator support](https://extensions.gnome.org/extension/615/appindicator-support/)
