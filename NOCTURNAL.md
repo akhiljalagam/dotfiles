@@ -5,16 +5,15 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 
 ###### Font
 * **Terminal:** [IBM Plex Nerd Patch (BlexMono)](https://www.nerdfonts.com/font-downloads)
-* **Desktop:** Cantarell
+* **Desktop:** SF Pro Display
 
 ###### Looks
 
 | Elements | Theme | Tweaks |
 | --- | --- | --- |
-| GTK | [Colloid Dark](https://www.pling.com/p/1661959) | Rimless, Black |
+| GTK + Shell | [Colloid Dark](https://www.pling.com/p/1661959) | Rimless, Black |
 | Icons | [Hydrogen](https://github.com/tau-OS/tau-hydrogen) | *None* |
 | Cursors | [phinger-cursors](https://www.pling.com/p/1690782) | *None* |
-| Shell | [Nova Shell Fixed](https://www.pling.com/p/1197147) | *None* |
 
 ###### Other
 * **Display manager:** GDM
