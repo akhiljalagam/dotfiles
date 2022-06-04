@@ -19,6 +19,7 @@ Personal configurations for my machines
 ** **
 
 * [How to: Pipewire on Void w/ Wireplumber](https://github.com/czarhex/dotfiles/blob/main/PIPEVOID.md)
+* [How to: Customize GDM and change display config](https://github.com/czarhex/dotfiles/blob/main/GDMCUSTOM.md)
 
 ** **
 - [x] make this terrible repo
