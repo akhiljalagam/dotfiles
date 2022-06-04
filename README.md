@@ -1,4 +1,5 @@
-<h2 align="center">CZARHEX DOTFILES</h2>
+![banner | font used: Linux Biolium | made in: Photopea.com](images/repobanner.png)
+<h2 align="center">. . .</h2>
 
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com) 
 [![forthebadge](https://forthebadge.com/images/badges/just-plain-nasty.svg)](https://forthebadge.com) 
