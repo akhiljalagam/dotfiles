@@ -31,7 +31,18 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
   - [Workspace indicator](https://extensions.gnome.org/extension/3952/workspace-indicator/)
   - [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/)
   - [Remove Alt+Tab Delay v2](https://extensions.gnome.org/extension/2741/remove-alttab-delay-v2/)
-  - [Desktop Icons NG](https://extensions.gnome.org/extension/2087/desktop-icons-ng-ding/)
+
+###### Extra notes
+ACPI errors? change "loglevel=4" in `/etc/default/grub` to "loglevel=0" and `sudo update-grub`  
+
+Bad tty and GRUB resolution? Add these in there:
+```
+GRUB_GFXMODE=1920x1080x32
+GRUB_GFXPAYLOAD_LINUX=1920x1080x32
+```
+NVIDIA? `nvidia-drm.modeset=1`
+
+CJK and Emoji fonts: noto-fonts-cjk, noto-fonts-emoji
 
 ** **
 
