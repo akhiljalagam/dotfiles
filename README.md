@@ -4,9 +4,9 @@
 [![forthebadge](https://forthebadge.com/images/badges/just-plain-nasty.svg)](https://forthebadge.com) 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com) 
 
-## . . .
-<br/>
-Personal configurations for my machines.
+## . . . NBSD . . .
+Personal configurations for my machines.  
+( No Bull Shit Dotfiles )
 
 ** **
 
