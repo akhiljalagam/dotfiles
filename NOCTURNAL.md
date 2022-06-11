@@ -1,7 +1,7 @@
 ** **
 
 ###### Shell
-zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/romkatv/powerlevel10k)
+zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/romkatv/powerlevel10k) + [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 
 ###### Font
 * **Terminal:** [IBM Plex Nerd Patch (BlexMono)](https://www.nerdfonts.com/font-downloads)
