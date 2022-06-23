@@ -46,4 +46,4 @@ CJK and Emoji fonts: noto-fonts-cjk, noto-fonts-emoji
 
 ** **
 
-![ovelord-preview](images/2022-06-02-overlord.png)
+![ovelord-preview](images/2022-06-23-overlord.png)
