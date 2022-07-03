@@ -12,7 +12,7 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 | Elements | Theme | Tweaks |
 | --- | --- | --- |
 | GTK + Shell | [Colloid Dark](https://www.pling.com/p/1661959) | Rimless, Black |
-| Icons | [Hydrogen](https://github.com/tau-OS/tau-hydrogen) | *None* |
+| Icons | [WhiteSur Dark](https://www.pling.com/p/1405756) | Black panel, Bold |
 | Cursors | [phinger-cursors](https://www.pling.com/p/1690782) | *None* |
 
 ###### Other
