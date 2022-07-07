@@ -19,7 +19,6 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 * **Display manager:** GDM
 * **Screensaver:** gnome-screensaver
 * **Misc:** caffeine-ng, conky, kitty, gnome-weather
-* **Gnome version:** 41.5
 * **Gnome extensions:**
   - [Appindicator support](https://extensions.gnome.org/extension/615/appindicator-support/)
   - [Application Volume Mixer](https://extensions.gnome.org/extension/3499/application-volume-mixer/)
