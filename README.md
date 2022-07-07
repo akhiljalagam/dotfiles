@@ -6,12 +6,12 @@
 
 ** **
 
-| Machine | Environment | Info | HW Specifications | Screenshot |
+| Machine | Distribution | Environment | Info | HW Specifications |
 | --- | --- | --- | --- | --- |
-| Overlord | GNOME 41.5 | [Click here](https://github.com/czarhex/dotfiles/blob/main/OVERLORD.md) | `B360M PRO-VD, i5-8600, 32GB, GTX 1650S` | [View](https://raw.githubusercontent.com/czarhex/dotfiles/main/images/2022-06-23-overlord.png)
-| Nocturnal | GNOME 41.5 | [Click here](https://github.com/czarhex/dotfiles/blob/main/NOCTURNAL.md) | `Lenovo X260, i5-6200U, 8GB, HD520` | [View](https://raw.githubusercontent.com/czarhex/dotfiles/main/images/2022-05-20-nocturnal.png)
-| Evocative | I3-GAPS | [Click here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | `IBM X60s, Core Duo L2400, 1GB, Intel GMA` | [View](https://youtu.be/KrwdRMWnt14?t=12)
-| Tenacious | Ratpoison | [Click here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | `IBM T41, Pentium M, 2GB, ATI MR 7500` | [View](https://youtu.be/KrwdRMWnt14?t=12)
+| Overlord | Void x86_64 | GNOME 42 | [Click here](https://github.com/czarhex/dotfiles/blob/main/OVERLORD.md) | `B360M PRO-VD, i5-8600, 32GB, GTX 1650S` |
+| Nocturnal | Void x86_64 | GNOME 42 | [Click here](https://github.com/czarhex/dotfiles/blob/main/NOCTURNAL.md) | `Lenovo X260, i5-6200U, 8GB, HD520` |
+| Evocative | Void i686 | I3-GAPS | [Click here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | `IBM X60, Core Duo L2400, 3GB, Intel GMA 950` |
+| Tenacious | Void i686 | Ratpoison | [Click here](https://youtu.be/KrwdRMWnt14?t=12) | `IBM T41, Pentium M, 2GB, ATI MR 7500` |
 
 ** **
 
