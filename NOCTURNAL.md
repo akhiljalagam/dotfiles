@@ -35,4 +35,4 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 
 ** **
 
-![nocturnal-preview](images/2022-07-03-nocturnal.png)
+![nocturnal-preview](images/2022-07-07-nocturnal.png)
