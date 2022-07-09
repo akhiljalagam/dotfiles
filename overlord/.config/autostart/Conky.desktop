@@ -1,6 +1,4 @@
 [Desktop Entry]
-Exec=~/.config/conky/Regulus/start.sh
+Exec=~/.config/conky/start.sh
 Name=Conky
 Type=Application
-Version=1.0
-X-LXQt-Need-Tray=true
