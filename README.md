@@ -26,7 +26,7 @@
     <td>Void x86_64</td>
     <td>GNOME 42</td>
     <td>
-      <a href="https://github.com/czarhex/dotfiles/blob/main/OVERLORD.md">Click here</a> 
+      <a href="https://github.com/czarhex/dotfiles/blob/main/c/OVERLORD.md">Click here</a> 
     </td>
     <td>
       <code>B360M PRO-VD, i5-8600, 32GB, GTX 1650S</code>
@@ -37,7 +37,7 @@
     <td>Void x86_64</td>
     <td>GNOME 42</td>
     <td>
-      <a href="https://github.com/czarhex/dotfiles/blob/main/NOCTURNAL.md">Click here</a> 
+      <a href="https://github.com/czarhex/dotfiles/blob/main/c/NOCTURNAL.md">Click here</a> 
     </td>
     <td>
       <code>Lenovo X260, i5-6200U, 8GB, HD520</code>
@@ -69,7 +69,7 @@
 
 ** **
 
-* [How to: Pipewire on Void w/ Wireplumber](https://github.com/czarhex/dotfiles/blob/main/PIPEVOID.md)
-* [How to: Customize GDM and change display config](https://github.com/czarhex/dotfiles/blob/main/GDMCUSTOM.md)
+* [How to: Pipewire on Void w/ Wireplumber](https://github.com/czarhex/dotfiles/blob/main/c/PIPEVOID.md)
+* [How to: Customize GDM and change display config](https://github.com/czarhex/dotfiles/blob/main/c/GDMCUSTOM.md)
 
 ** **
