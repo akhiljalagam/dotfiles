@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="images/repobanner.png" alt="Bred">
+  <img src="images/banner1.jpg" alt="Bred">
 </p>
-<!-- Font used in banner image: Linux Biolium -->
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/compatibility-club-penguin.svg" alt="Bred">
