@@ -2,6 +2,8 @@
   <img src="images/banner1.jpg" alt="Bred">
 </p>
 
+<h1>ドットファイル</h1>
+
 <p align="center">
   <img src="https://forthebadge.com/images/badges/compatibility-club-penguin.svg" alt="Bred">
   <img src="https://forthebadge.com/images/badges/just-plain-nasty.svg" alt="Bred">
