@@ -22,7 +22,7 @@
   <tr>
     <td>Overlord</td>
     <td>Void x86_64</td>
-    <td>GNOME</td>
+    <td>GNOME 42</td>
     <td>
       <a href="https://github.com/czarhex/dotfiles/blob/main/OVERLORD.md">Click here</a> 
     </td>
@@ -33,7 +33,7 @@
   <tr>
     <td>Nocturnal</td>
     <td>Void x86_64</td>
-    <td>GNOME</td>
+    <td>GNOME 42</td>
     <td>
       <a href="https://github.com/czarhex/dotfiles/blob/main/NOCTURNAL.md">Click here</a> 
     </td>
