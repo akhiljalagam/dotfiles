@@ -1,8 +1,9 @@
+<h6>「ドット」</h6>
 <p align="center">
   <img src="images/banner1.jpg" alt="Bred">
 </p>
 
-<h1>ドットファイル</h1>
+<h2 align="center">ドットファイル</h2>
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/compatibility-club-penguin.svg" alt="Bred">
