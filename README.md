@@ -1,4 +1,3 @@
-<h6>「ドット」</h6>
 <p align="center">
   <img src="images/banner1.jpg" alt="Bred">
 </p>
