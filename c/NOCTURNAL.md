@@ -1,4 +1,5 @@
 ** **
+<img src="/images/2022-07-07-nocturnal.png" align="right" width="520">
 
 ###### Shell
 zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/romkatv/powerlevel10k) + [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
@@ -33,5 +34,3 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
   - [Remove Alt+Tab Delay v2](https://extensions.gnome.org/extension/2741/remove-alttab-delay-v2/)
 
 ** **
-
-![nocturnal-preview](/images/2022-07-07-nocturnal.png)
