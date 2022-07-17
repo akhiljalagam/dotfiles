@@ -33,8 +33,8 @@
       <a href="https://github.com/czarhex/dotfiles/blob/main/c/OVERLORD.md">Click here</a> 
     </td>
     <td>
-      <code>B360M PRO-VD, i5-8600, 32GB, GTX 1650S</code>
-      <img src="https://storage-asset.msi.com/frontend/imgs/products/mb/pro_logo.png" align="right" width="30">
+      <code>B360M PRO-VD, i5-8600, 32GB, 1650S</code>
+      <img src="https://storage-asset.msi.com/frontend/imgs/products/mb/pro_logo.png" align="right" width="60">
     </td>
   </tr>
   <tr>
@@ -51,7 +51,7 @@
     </td>
     <td>
       <code>Lenovo X260, i5-6200U, 8GB, HD520</code>
-      <img src="https://static.lenovo.com/ww/img/series-redesign/logos/thinkpad-logo-white.png" align="right" width="50">
+      <img src="https://static.lenovo.com/ww/img/series-redesign/logos/thinkpad-logo-white.png" align="right" width="60">
     </td>
   </tr>
   <tr>
@@ -68,8 +68,8 @@
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Click here</a> 
     </td>
     <td>
-      <code>IBM X60, Core Duo L2400, 4GB, GMA 950</code>
-      <img src="https://static.wikia.nocookie.net/logopedia/images/b/b4/IBM_ThinkPad.svg" align="right" width="40">
+      <code>IBM X60, L2400, 4GB, GMA 950</code>
+      <img src="https://static.wikia.nocookie.net/logopedia/images/b/b4/IBM_ThinkPad.svg" align="right" width="60">
     </td>
   </tr>
 </table> 
