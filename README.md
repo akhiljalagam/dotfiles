@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- <img src="images/banner1.jpg" alt="Bred"> -->
-  ![](https://tenor.com/view/lycoris-recoil-takina-inoue-machine-gun-anime-gun-gif-26113232)
+  <img src="/images/lycoris-recoil-takina-inoue.gif">
 </p>
 
 <h2 align="center">ドットファイル</h2>
