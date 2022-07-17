@@ -34,6 +34,7 @@
     </td>
     <td>
       <code>B360M PRO-VD, i5-8600, 32GB, GTX 1650S</code>
+      <img src="https://storage-asset.msi.com/frontend/imgs/products/mb/pro_logo.png" align="right" width="60">
     </td>
   </tr>
   <tr>
@@ -50,30 +51,27 @@
     </td>
     <td>
       <code>Lenovo X260, i5-6200U, 8GB, HD520</code>
+      <img src="https://static.lenovo.com/ww/img/series-redesign/logos/thinkpad-logo-white.png" align="right" width="60">
     </td>
   </tr>
-<!--  <tr>
+  <tr>
     <td>Evocative</td>
     <td>Void i686</td>
-    <td>I3-GAPS</td>
+    <td>
+      <details>
+      <summary>I3-GAPS</summary>
+      <!-- <img src="/images/evocative.png"> -->
+      <a href="https://www.youtube.com/watch?v=KrwdRMWnt14&t=12s">Preview</a>
+      </details>
+    </td>
     <td>
       <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Click here</a> 
     </td>
     <td>
-      <code>IBM X60, Core Duo L2400, 3GB, Intel GMA 950</code>
+      <code>IBM X60, Core Duo L2400, 4GB, GMA 950</code>
+      <img src="https://static.wikia.nocookie.net/logopedia/images/b/b4/IBM_ThinkPad.svg" align="right" width="50">
     </td>
-  </tr> -->
-<!--  <tr>
-    <td>Tenacious</td>
-    <td>Void i686</td>
-    <td>Ratpoison</td>
-    <td>
-      <a href="https://youtu.be/KrwdRMWnt14?t=12">Click here</a>
-    </td>
-    <td>
-      <code>IBM T41, Pentium M, 2GB, ATI MR 7500</code>
-    </td>
-  </tr> -->
+  </tr>
 </table> 
 
 ** **
