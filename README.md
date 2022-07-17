@@ -33,7 +33,7 @@
       <a href="https://github.com/czarhex/dotfiles/blob/main/c/OVERLORD.md">Click here</a> 
     </td>
     <td>
-      <code>B360M PRO-VD, i5-8600, 32GB, 1650S</code>
+      <code>B360M-PROVD, i5-8600, 32GB, 1650S</code>
       <img src="https://storage-asset.msi.com/frontend/imgs/products/mb/pro_logo.png" align="right" width="60">
     </td>
   </tr>
