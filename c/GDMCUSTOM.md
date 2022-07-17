@@ -1,15 +1,17 @@
 ** **
 
 <br/>
+<a href="https://github.com/realmazharhussain/gdm-settings"><img src="https://raw.githubusercontent.com/wiki/realmazharhussain/gdm-settings/screenshots/screenshot-1.png" align="right" width="370"></a>
 
 ### How to: Customize GDM properly and easily
 
-First, install [Login Manager Settings](https://flathub.org/apps/details/io.github.realmazharhussain.GdmSettings) from Flathub. 
+Install [Login Manager Settings](https://flathub.org/apps/details/io.github.realmazharhussain.GdmSettings) from Flathub. 
 To setup Flatpak: https://flatpak.org/setup/
 
 * `flatpak install flathub io.github.realmazharhussain.GdmSettings`
 
-This application allows for easy customization (for e.g. background, fonts, themes, scale factor etc.)
+This application allows for easy customization  
+(for e.g. background, fonts, themes, scale factor etc.)  
 
 <br/>
 
