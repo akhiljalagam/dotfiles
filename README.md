@@ -5,9 +5,9 @@
 <h2 align="center">ドットファイル</h2>
 
 <p align="center">
-  <img src="https://forthebadge.com/images/badges/compatibility-club-penguin.svg" alt="Bred">
-  <img src="https://forthebadge.com/images/badges/just-plain-nasty.svg" alt="Bred">
-  <img src="https://forthebadge.com/images/badges/built-with-swag.svg" alt="Bred">
+  <img src="https://forthebadge.com/images/badges/compatibility-club-penguin.svg">
+  <img src="https://forthebadge.com/images/badges/just-plain-nasty.svg">
+  <img src="https://forthebadge.com/images/badges/built-with-swag.svg">
 </p>
 
 ** **
@@ -76,7 +76,19 @@
 
 ** **
 
-* [How to: Pipewire on Void w/ Wireplumber](https://github.com/czarhex/dotfiles/blob/main/c/PIPEVOID.md)
-* [How to: Customize GDM and change display config](https://github.com/czarhex/dotfiles/blob/main/c/GDMCUSTOM.md)
+<ul>
+  <li>
+  <b>How to </b>ー 
+  <a href=https://github.com/czarhex/dotfiles/blob/main/c/PIPEVOID.md>
+    <img src="https://fedoraloveskde.org/pipewire_logo.svg" width="15"> Pipewire on Void <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Void_Linux_logo.svg" width="15"> w/ Wireplumber
+  </a>
+  </li>
+  <li>
+  <b>How to </b>ー 
+  <a href=https://github.com/czarhex/dotfiles/blob/main/c/GDMCUSTOM.md>
+    <img src="https://www.nicepng.com/png/full/368-3682089_ubuntu-gnome-logo-png.png" width="15"> Customize GDM and change display config
+  </a>
+  </li>
+</ul> 
 
 ** **
