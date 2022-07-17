@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="images/banner1.jpg" alt="Bred">
+  <!-- <img src="images/banner1.jpg" alt="Bred"> -->
+  <div class="tenor-gif-embed" data-postid="26113232" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/lycoris-recoil-takina-inoue-machine-gun-anime-gun-gif-26113232">Lycoris Recoil Takina Inoue GIF</a>from <a href="https://tenor.com/search/lycoris+recoil-gifs">Lycoris Recoil GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 <h2 align="center">ドットファイル</h2>
