@@ -34,7 +34,7 @@
     </td>
     <td>
       <code>B360M PRO-VD, i5-8600, 32GB, GTX 1650S</code>
-      <img src="https://storage-asset.msi.com/frontend/imgs/products/mb/pro_logo.png" align="right" width="60">
+      <img src="https://storage-asset.msi.com/frontend/imgs/products/mb/pro_logo.png" align="right" width="30">
     </td>
   </tr>
   <tr>
@@ -51,7 +51,7 @@
     </td>
     <td>
       <code>Lenovo X260, i5-6200U, 8GB, HD520</code>
-      <img src="https://static.lenovo.com/ww/img/series-redesign/logos/thinkpad-logo-white.png" align="right" width="60">
+      <img src="https://static.lenovo.com/ww/img/series-redesign/logos/thinkpad-logo-white.png" align="right" width="50">
     </td>
   </tr>
   <tr>
@@ -69,7 +69,7 @@
     </td>
     <td>
       <code>IBM X60, Core Duo L2400, 4GB, GMA 950</code>
-      <img src="https://static.wikia.nocookie.net/logopedia/images/b/b4/IBM_ThinkPad.svg" align="right" width="50">
+      <img src="https://static.wikia.nocookie.net/logopedia/images/b/b4/IBM_ThinkPad.svg" align="right" width="40">
     </td>
   </tr>
 </table> 
