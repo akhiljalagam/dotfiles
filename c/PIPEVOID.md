@@ -1,22 +1,25 @@
 ** **
 
 <br/>
+<img src="https://fedoraloveskde.org/pipewire_logo.svg" align="right" width="175">
+<img src="https://voidlinux.org/assets/img/void_bg.png" align="right" width="100">
 
 ### How to: Pipewire (w/ Wireplumber) on Void Linux
 * `sudo xbps-install -Sy pipewire alsa-pipewire wireplumber`
 
-* Edit `/usr/share/pipewire/pipewire.conf` like so (usually last lines in config) :
+* Copy the initial config to the alternate location :
+  - `sudo mkdir -p /etc/pipewire`
+  - `sudo cp /usr/share/pipewire/pipewire.conf /etc/pipewire/`
+
+* Edit `/etc/pipewire/pipewire.conf` like so (last lines of the config) :
   - ```
     context.exec = [
         { path = "/usr/bin/wireplumber" args = "" }
         { path = "/usr/bin/pipewire" args = "-c pipewire-pulse.conf" }
     ]
     ```
-* Make that config stay! :
-  - `sudo mkdir -p /etc/pipewire`
-  - `sudo cp /usr/share/pipewire/pipewire.conf /etc/pipewire/`
 
-* Run these commands :
+* Run these commands for ALSA integration :
   - `sudo mkdir -p /etc/alsa/conf.d`
   - `sudo ln -s /usr/share/alsa/alsa.conf.d/50-pipewire.conf /etc/alsa/conf.d`
   - `sudo ln -s /usr/share/alsa/alsa.conf.d/99-pipewire-default.conf /etc/alsa/conf.d`
@@ -24,7 +27,7 @@
 * Edit `/etc/pulse/client.conf` :
   - by replacing `; autospawn = yes` with `autospawn = no`
 
-* Add `pipewire &` in your [XDG Autostart](https://wiki.archlinux.org/title/XDG_Autostart), .xprofile or .xinitrc
+* Add `pipewire &` in your [XDG Autostart](https://wiki.archlinux.org/title/XDG_Autostart)
 
 * Reboot (you may also now remove pulseaudio if you have it, `sudo xbps-remove -RF pulseaudio pulseaudio-utils`)
 
