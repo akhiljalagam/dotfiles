@@ -80,7 +80,7 @@
   <li>
   <b>How to </b>ー 
   <a href=https://github.com/czarhex/dotfiles/blob/main/c/PIPEVOID.md>
-    <img src="https://fedoraloveskde.org/pipewire_logo.svg" width="15"> Pipewire on Void <img src="https://voidlinux.org/assets/img/void_bg.png" width="15"> w/ Wireplumber
+    <img src="https://fedoraloveskde.org/pipewire_logo.svg" width="15"> Pipewire on Void <img src="https://voidlinux.org/assets/img/void_bg.png" width="13"> w/ Wireplumber
   </a>
   </li>
   <li>
