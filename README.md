@@ -89,6 +89,21 @@
     <img src="https://www.nicepng.com/png/full/368-3682089_ubuntu-gnome-logo-png.png" width="15"> Customize GDM and change display config
   </a>
   </li>
+  <li>
+  <details>
+  <summary><h6>Extra notes</h6></summary>
+  <b>ACPI errors?</b> change "loglevel=4" in <code>/etc/default/grub</code> to "loglevel=0" and <code>sudo update-grub`</code> 
+  <br></br>
+  <b>Bad TTY and GRUB resolution?</b> Add these in there:
+  <pre><code>
+  GRUB_GFXMODE=1920x1080x32
+  GRUB_GFXPAYLOAD_LINUX=1920x1080x32
+  </code></pre>
+  <b>NVIDIA?</b> <code>nvidia-drm.modeset=1</code>
+  <br></br>
+  <b>CJK and Emoji fonts:</b> noto-fonts-cjk, noto-fonts-emoji
+  </details>
+  </li>
 </ul> 
 
 ** **
