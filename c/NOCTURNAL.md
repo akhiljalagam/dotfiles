@@ -1,5 +1,5 @@
 ** **
-<img src="/images/2022-07-07-nocturnal.png" align="right" width="520">
+<a href="https://raw.githubusercontent.com/czarhex/dotfiles/main/images/2022-07-07-nocturnal.png"><img src="/images/2022-07-07-nocturnal.png" align="right" width="520"></a>
 
 ###### Shell
 zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/romkatv/powerlevel10k) + [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
