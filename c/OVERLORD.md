@@ -10,11 +10,12 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 
 ###### Looks
 
-| Elements | Theme | Tweaks |
-| --- | --- | --- |
-| GTK + Shell | [Graphite Dark](https://www.pling.com/p/1598493) | Rimless, Normal, Black, Compact |
-| Icons | [WhiteSur](https://www.pling.com/p/1405756) | Black panel, Bold |
-| Cursors | [phinger-cursors](https://www.pling.com/p/1690782) | *None* |
+| ーーーーーー | Theme | Tweaks | Size |
+| --- | --- | --- | --- |
+| **GTK** | [Graphite Dark](https://www.pling.com/p/1598493) | Rimless, Normal, Black | Compact |
+| **Shell** | [Graphite Dark](https://www.pling.com/p/1598493) | Rimless, Normal, Black | Standard |
+| **Icons** | [WhiteSur](https://www.pling.com/p/1405756) | Black panel, Bold | |
+| **Cursors** | [phinger-cursors](https://www.pling.com/p/1690782) | | |
 
 ###### Other
 * **Display manager:** GDM
