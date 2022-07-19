@@ -49,4 +49,5 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 </ul>
 </details>
 
+[← Go back](https://github.com/czarhex/dotfiles#readme)
 ** **
