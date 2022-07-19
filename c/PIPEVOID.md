@@ -35,4 +35,5 @@ Credit: [u/ajshell1's post](https://www.reddit.com/r/voidlinux/comments/lp5w87/h
 
 <br/>
 
+[← Go back](https://github.com/czarhex/dotfiles#readme)
 ** **
