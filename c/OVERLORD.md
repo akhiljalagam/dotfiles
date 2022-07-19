@@ -1,5 +1,5 @@
 ** **
-<img src="/images/2022-07-07-overlord.png" align="right" width="600">
+<a href="https://raw.githubusercontent.com/czarhex/dotfiles/main/images/2022-07-19-overlord.png"><img src="/images/2022-07-19-overlord.png" align="right" width="700"></a>
 
 ###### Shell
 zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/romkatv/powerlevel10k) + [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
@@ -12,8 +12,8 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 
 | ーーーーーー | Theme | Tweaks | Size |
 | --- | --- | --- | --- |
-| **GTK** | [Graphite Dark](https://www.pling.com/p/1598493) | Rimless, Normal, Black | Compact |
-| **Shell** | [Graphite Dark](https://www.pling.com/p/1598493) | Rimless, Normal, Black | Standard |
+| **GTK** | [Colloid Dark](https://www.pling.com/p/1661959) | Rimless, Black | Compact |
+| **Shell** | [Colloid Dark](https://www.pling.com/p/1661959) | Rimless, Black | Standard |
 | **Icons** | [WhiteSur](https://www.pling.com/p/1405756) | Black panel, Bold | |
 | **Cursors** | [phinger-cursors](https://www.pling.com/p/1690782) | | |
 
