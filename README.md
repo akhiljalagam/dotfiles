@@ -92,7 +92,7 @@
   <li>
   <details>
   <summary><h6>Extra notes</h6></summary>
-  <b>ACPI errors?</b> change "loglevel=4" in <code>/etc/default/grub</code> to "loglevel=0" and <code>sudo update-grub`</code> 
+  <b>ACPI errors?</b> change "loglevel=4" in <code>/etc/default/grub</code> to "loglevel=0" and <code>sudo update-grub</code> 
   <br></br>
   <b>Bad TTY and GRUB resolution?</b> Add these in there:
   <pre><code>
