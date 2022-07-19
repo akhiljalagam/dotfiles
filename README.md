@@ -26,7 +26,7 @@
     <td>
       <details>
       <summary>GNOME 42</summary>
-      <img src="/images/2022-07-19-overlord.png">
+      <a href="https://raw.githubusercontent.com/czarhex/dotfiles/main/images/2022-07-19-overlord.png"><img src="/images/2022-07-19-overlord.png"></a>
       </details>
     </td>
     <td>
@@ -43,7 +43,7 @@
     <td>
       <details>
       <summary>GNOME 42</summary>
-      <img src="/images/2022-07-07-nocturnal.png">
+      <a href="https://raw.githubusercontent.com/czarhex/dotfiles/main/images/2022-07-07-nocturnal.png"><img src="/images/2022-07-07-nocturnal.png"></a>
       </details>
     </td>
     <td>
