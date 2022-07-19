@@ -17,32 +17,50 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 | **Icons** | [WhiteSur](https://www.pling.com/p/1405756) | Black panel, Bold | |
 | **Cursors** | [phinger-cursors](https://www.pling.com/p/1690782) | | |
 
-###### Other
-* **Display manager:** GDM
-* **Screensaver:** gnome-screensaver
-* **Misc:** conky, gnome-weather
-* **Gnome extensions:**
-  - [Appindicator support](https://extensions.gnome.org/extension/615/appindicator-support/)
-  - [Application Volume Mixer](https://extensions.gnome.org/extension/3499/application-volume-mixer/)
-  - [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
-  - [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)
-  - [Rounded System Menu Buttons](https://extensions.gnome.org/extension/4693/rounded-system-menu-buttons/)
-  - [Sound Input & Output Device Chooser](https://extensions.gnome.org/extension/906/sound-output-device-chooser/)
-  - [User Themes](https://extensions.gnome.org/extension/19/user-themes/)
-  - [Workspace indicator](https://extensions.gnome.org/extension/3952/workspace-indicator/)
-  - [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/)
-  - [Remove Alt+Tab Delay v2](https://extensions.gnome.org/extension/2741/remove-alttab-delay-v2/)
+<details>
+<summary><h6>Other</h6></summary>
+<ul>
+  <li>
+    <b>Display Manager ー</b> GDM
+  </li>
+  <li>
+    <b>Screensaver/Locker ー</b> gnome-screensaver
+  </li>
+  <li>
+    <b>Miscellaneous ー</b> conky, gnome-weather
+  </li>
+  </br>
+  <details>
+      <summary><b>Gnome Extensions</b><i> (Click to reveal)</i></summary>
+      <ul>
+        <li><a href="https://extensions.gnome.org/extension/615/appindicator-support/">Appindicator support</a></li>
+        <li><a href="https://extensions.gnome.org/extension/3499/application-volume-mixer/">Application Volume Mixer</a></li>
+        <li><a href="https://extensions.gnome.org/extension/3628/arcmenu/">ArcMenu</a></li>
+        <li><a href="https://extensions.gnome.org/extension/3843/just-perfection/">Just Perfection</a></li>
+        <li><a href="https://extensions.gnome.org/extension/4693/rounded-system-menu-buttons/">Rounded System Menu Buttons</a></li>
+        <li><a href="https://extensions.gnome.org/extension/906/sound-output-device-chooser/">Sound Input & Output Device Chooser</a></li>
+        <li><a href="https://extensions.gnome.org/extension/19/user-themes/">User Themes</a></li>
+        <li><a href="https://extensions.gnome.org/extension/3952/workspace-indicator/">Workspace indicator</a></li>
+        <li><a href="https://extensions.gnome.org/extension/7/removable-drive-menu/">Removable Drive Menu</a></li>
+        <li><a href="https://extensions.gnome.org/extension/2741/remove-alttab-delay-v2/">Remove Alt+Tab Delay</a></li>
+        <li><a href="https://extensions.gnome.org/extension/4135/espresso/">Espresso</a></li>
+      </ul>
+  </details>
+</ul>
+</details>
 
-###### Extra notes
-ACPI errors? change "loglevel=4" in `/etc/default/grub` to "loglevel=0" and `sudo update-grub`  
-
-Bad tty and GRUB resolution? Add these in there:
-```
-GRUB_GFXMODE=1920x1080x32
-GRUB_GFXPAYLOAD_LINUX=1920x1080x32
-```
-NVIDIA? `nvidia-drm.modeset=1`
-
-CJK and Emoji fonts: noto-fonts-cjk, noto-fonts-emoji
+<details>
+  <summary><h6>Extra notes</h6></summary>
+  <b>ACPI errors?</b> change "loglevel=4" in <code>/etc/default/grub</code> to "loglevel=0" and <code>sudo update-grub`</code> 
+  <br></br>
+  <b>Bad TTY and GRUB resolution?</b> Add these in there:
+  <pre><code>
+  GRUB_GFXMODE=1920x1080x32
+  GRUB_GFXPAYLOAD_LINUX=1920x1080x32
+  </code></pre>
+  <b>NVIDIA?</b> <code>nvidia-drm.modeset=1</code>
+  <br></br>
+  <b>CJK and Emoji fonts:</b> noto-fonts-cjk, noto-fonts-emoji
+</details>
 
 ** **
