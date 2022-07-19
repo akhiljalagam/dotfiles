@@ -26,7 +26,7 @@
     <td>
       <details>
       <summary>GNOME 42</summary>
-      <img src="/images/2022-07-07-overlord.png">
+      <img src="/images/2022-07-19-overlord.png">
       </details>
     </td>
     <td>
