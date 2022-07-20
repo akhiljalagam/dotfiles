@@ -5,9 +5,9 @@
 <h3 align="center">ドットファイル</h3>
 
 <p align="center">
-  <img src="https://forthebadge.com/images/badges/compatibility-club-penguin.svg" height="40">
-  <img src="https://forthebadge.com/images/badges/just-plain-nasty.svg" height="40">
-  <img src="https://forthebadge.com/images/badges/built-with-swag.svg" height="40">
+  <img src="https://forthebadge.com/images/badges/compatibility-club-penguin.svg" height="28">
+  <img src="https://forthebadge.com/images/badges/just-plain-nasty.svg" height="28">
+  <img src="https://forthebadge.com/images/badges/built-with-swag.svg" height="28">
 </p>
 
 ** **
@@ -30,7 +30,7 @@
       </details>
     </td>
     <td>
-      <a href="https://github.com/czarhex/dotfiles/blob/main/c/OVERLORD.md">Click here</a> 
+      <a href="https://github.com/czarhex/dotfiles/blob/main/assets/OVERLORD.md">Click here</a> 
     </td>
     <td>
       <code>B360M-PROVD, i5-8600, 32GB, 1650S</code>
@@ -48,7 +48,7 @@
       </details>
     </td>
     <td>
-      <a href="https://github.com/czarhex/dotfiles/blob/main/c/NOCTURNAL.md">Click here</a> 
+      <a href="https://github.com/czarhex/dotfiles/blob/main/assets/NOCTURNAL.md">Click here</a> 
     </td>
     <td>
       <code>Lenovo X260, i5-6200U, 8GB, HD520</code>
@@ -82,13 +82,13 @@
 <ul>
   <li>
   <b>How to </b>ー 
-  <a href=https://github.com/czarhex/dotfiles/blob/main/c/PIPEVOID.md>
+  <a href=https://github.com/czarhex/dotfiles/blob/main/assets/PIPEVOID.md>
     <img src="https://fedoraloveskde.org/pipewire_logo.svg" width="15"> Pipewire on Void <img src="https://voidlinux.org/assets/img/void_bg.png" width="13"> w/ Wireplumber
   </a>
   </li>
   <li>
   <b>How to </b>ー 
-  <a href=https://github.com/czarhex/dotfiles/blob/main/c/GDMCUSTOM.md>
+  <a href=https://github.com/czarhex/dotfiles/blob/main/assets/GDMCUSTOM.md>
     <img src="https://www.nicepng.com/png/full/368-3682089_ubuntu-gnome-logo-png.png" width="15"> Customize GDM and change display config
   </a>
   </li>
