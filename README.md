@@ -2,12 +2,12 @@
   <img src="/images/lycoris-recoil-takina-inoue.gif">
 </p>
 
-<h2 align="center">ドットファイル</h2>
+<h3 align="center">ドットファイル</h3>
 
 <p align="center">
-  <img src="https://forthebadge.com/images/badges/compatibility-club-penguin.svg">
-  <img src="https://forthebadge.com/images/badges/just-plain-nasty.svg">
-  <img src="https://forthebadge.com/images/badges/built-with-swag.svg">
+  <img src="https://forthebadge.com/images/badges/compatibility-club-penguin.svg" height="40">
+  <img src="https://forthebadge.com/images/badges/just-plain-nasty.svg" height="40">
+  <img src="https://forthebadge.com/images/badges/built-with-swag.svg" height="40">
 </p>
 
 ** **
