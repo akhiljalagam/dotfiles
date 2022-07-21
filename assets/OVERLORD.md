@@ -44,6 +44,8 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
         <li><a href="https://extensions.gnome.org/extension/7/removable-drive-menu/">Removable Drive Menu</a></li>
         <li><a href="https://extensions.gnome.org/extension/2741/remove-alttab-delay-v2/">Remove Alt+Tab Delay</a></li>
         <li><a href="https://extensions.gnome.org/extension/4135/espresso/">Espresso</a></li>
+        <li><a href="https://extensions.gnome.org/extension/3193/blur-my-shell/">Blur My Shell</a></li>
+        <li><a href="https://extensions.gnome.org/extension/4481/forge/">Forge</a></li>
       </ul>
   </details>
 </ul>
