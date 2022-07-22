@@ -1,8 +1,8 @@
 <div>
 
-<img src="https://forthebadge.com/images/badges/compatibility-club-penguin.svg" align="right">
-<img src="https://forthebadge.com/images/badges/just-plain-nasty.svg" align="right">
-<img src="https://forthebadge.com/images/badges/built-with-swag.svg" align="right">
+<img src="https://forthebadge.com/images/badges/compatibility-club-penguin.svg" align="right" height="28">
+<img src="https://forthebadge.com/images/badges/just-plain-nasty.svg" align="right" height="28">
+<img src="https://forthebadge.com/images/badges/built-with-swag.svg" align="right" height="28">
 
 <h3>ドットファイル ⋅ ⋅ ⋅</h3>
 </div>
