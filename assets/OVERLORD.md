@@ -10,12 +10,12 @@ zshell + [oh-my-zsh](https://ohmyz.sh/) + [powerlevel10k](https://github.com/rom
 
 ###### Looks
 
-| ーーーーーー | Theme | Tweaks | Size |
-| --- | --- | --- | --- |
-| **GTK** | [Colloid Dark](https://www.pling.com/p/1661959) | Rimless, Black | Compact |
-| **Shell** | [Colloid Dark](https://www.pling.com/p/1661959) | Rimless, Black | Standard |
-| **Icons** | [WhiteSur](https://www.pling.com/p/1405756) | Black panel, Bold | |
-| **Cursors** | [phinger-cursors](https://www.pling.com/p/1690782) | | |
+| ーーーーーー | Theme | Tweaks |
+| --- | --- | --- |
+| **GTK** | [Colloid Dark](https://www.pling.com/p/1661959) | Rimless, Black |
+| **Shell** | [Colloid Dark](https://www.pling.com/p/1661959) | Rimless, Black |
+| **Icons** | [WhiteSur](https://www.pling.com/p/1405756) | Black panel, Bold |
+| **Cursors** | [phinger-cursors](https://www.pling.com/p/1690782) | |
 
 <details>
 <summary><h6>Other</h6></summary>
