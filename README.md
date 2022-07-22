@@ -19,7 +19,7 @@
   <tr>
     <td>OVERLORD</td>
     <td>
-      <a href="https://github.com/czarhex/dotfiles/blob/main/assets/OVERLORD.md">此方 <img src="https://voidlinux.org/assets/img/void_bg.png" width="13"></a> 
+      <a href="https://github.com/czarhex/dotfiles/blob/main/assets/OVERLORD.md#shell">此方 <img src="https://voidlinux.org/assets/img/void_bg.png" width="13"></a> 
     </td>
     <td>
       <code>B360M-PROVD, i5-8600, 32GB, 1650S</code>
@@ -30,7 +30,7 @@
   <tr>
     <td>NOCTURNAL</td>
     <td>
-      <a href="https://github.com/czarhex/dotfiles/blob/main/assets/NOCTURNAL.md">此方 <img src="https://voidlinux.org/assets/img/void_bg.png" width="13"></a> 
+      <a href="https://github.com/czarhex/dotfiles/blob/main/assets/NOCTURNAL.md#shell">此方 <img src="https://voidlinux.org/assets/img/void_bg.png" width="13"></a> 
     </td>
     <td>
       <code>Lenovo X260, i5-6200U, 8GB, HD520</code>
