@@ -52,7 +52,7 @@
 </table> 
 
 ** **
-
+<img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Other/Chihiro_Komiya_Reading_Linux_Kernel_Book.png" align="right" width="267">
 <ul>
   <li>
   <b>How to </b>ー 
@@ -82,5 +82,6 @@
 </details>
   </li>
 </ul> 
+<br>
 
 ** **
