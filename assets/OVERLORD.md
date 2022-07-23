@@ -1,5 +1,5 @@
 ** **
-<a href="https://raw.githubusercontent.com/czarhex/dotfiles/main/images/2022-07-19-overlord.png"><img src="/images/2022-07-19-overlord.png"></a>
+<table><tr><td><img src="/images/2022-07-19-overlord.png"></td></tr></table>
 
 <table align="right">
   <tr>
