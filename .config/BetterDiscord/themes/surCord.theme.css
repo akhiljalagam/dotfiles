@@ -2,32 +2,23 @@
  * @name surCord
  * @author Vozer
  * @version 07.2022
- * @description Hello. Again.
+ * @description Hello. Again. | Modified by czarhex
  * @source https://github.com/SlippingGitty/surCord/
  * @website https://slippinggitty.github.io/
 */
 
 /*
-                    'c.          discord@DiscordTheme.local 
-                 ,xNMM.          ----------------------- 
-               .OMMMMo           OS: surCord 06.06.22 scss 
-               OMMM0,            Host: DiscordCanary0,1 
-     .;loddo:' loolloddol;.      Kernel: 0.0.284
-   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 09 hours, 15 mins 
- .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 20 (plugins) 
- XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: Powercord, BetterDiscord, BeautifulDiscord,
-;MMMMMMMMMMMMMMMMMMMMMMMM:              Astra, Goosemod, Stylus 
-:MMMMMMMMMMMMMMMMMMMMMMMM:       DE: ImagineAPlace
-.MMMMMMMMMMMMMMMMMMMMMMMMX.      WM: Vozer
- kMMMMMMMMMMMMMMMMMMMMMMMMWd.    WM Theme: Discord (Dark) 
- .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Font: San Fransisco Display
-  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   Memory: #7673MiB / 8192MiB 
-    kMMMMMMMMMMMMMMMMMMMMMMd      
-     ;KMMMMMMMWXXWMMMMMMMk.       
-       .cooc,.    .,coo:.       
-
-
-       this theme has been modified by czarhex
+                MMw
+             ,MMMMW
+             WWWW
+       ,xMMMMMMMMMMMk.
+    .kMMMMMMMMMMMMMMMMW,
+   .MMMMMMMMMMMMMMMMM,     surCord.theme.css @ BETTERDISCORD
+  .MMMMMMMMMMMMMMMW        ----------------------- 
+  .MMMMMMMMMMMMMMMM.       By: Vozer
+  .XMMMMMMMMMMMMMMMM       Font: San Fransisco Display
+     kMMMMMMMMMMMMMMMM      
+       ;KMMMW  WMMWW.             
 */
 
 
@@ -63,8 +54,6 @@ SOFTWARE.
 /////////////////////////
 */
 /* Title Bar */
-@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css");
-@import url("https://v1.fontapi.ir/css/SFProDisplay");
 .theme-dark .container-ZMc96U.themed-Hp1KC_,
 .theme-dark .header-3OsQeK {
   background: var(--surCordTitleBar);
@@ -195,7 +184,7 @@ SOFTWARE.
   background: rgba(0, 0, 0, 0.436);
   backdrop-filter: blur(10px);
   box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
 }
 
 .theme-light .panels-3wFtMD {
@@ -301,7 +290,7 @@ div[aria-label="Text (Age-Restricted)"] > svg {
 .profileBannerPreview-3mLIdO {
   background: rgba(0, 0, 0, 0.436);
   box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   border-radius: 5px;
 }
 
@@ -364,7 +353,7 @@ div[aria-label="Text (Age-Restricted)"] > svg {
   background: rgba(0, 0, 0, 0.436) !important;
   backdrop-filter: blur(20px);
   box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   border-radius: 5px;
 }
 
@@ -408,7 +397,7 @@ div[aria-label="Text (Age-Restricted)"] > svg {
   background: rgba(0, 0, 0, 0.436) !important;
   backdrop-filter: blur(20px);
   box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   border-radius: 5px;
 }
 
@@ -434,7 +423,7 @@ div[aria-label="Text (Age-Restricted)"] > svg {
   background: rgba(0, 0, 0, 0.436) !important;
   backdrop-filter: blur(20px);
   box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   border-radius: 5px;
 }
 
@@ -499,7 +488,7 @@ div[aria-label="Text (Age-Restricted)"] > svg {
 }
 .theme-dark .circleIconButton-1VxDrg {
   backdrop-filter: blur(20px);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   border-radius: 15px;
   background: rgba(39, 38, 41, 0.276);
   color: var(--accent-selected);
@@ -572,10 +561,10 @@ div[aria-label="Text (Age-Restricted)"] > svg {
 | $$  | $$|  $$$$$$$|  $$$$$$$|  $$$$$$/| $$  | $$ /$$$$$$$/
 |__/  |__/ \_______/ \_______/ \______/ |__/  |__/|_______/ 
 */
-/* Uncomment the `@import url` to enable Apple Emojis */
-/* MWITTRIEN - EMOJIREPLACE - LICENCE https://github.com/mwittrien/BetterDiscordAddons/blob/master/LICENSE */
-/* Uncomment the font-weight to enable San Fransisco Bold */
+
 /*Designed by Apple in California - SAN FRANSISCO DISPLAY - https://developer.apple.com/fonts/ */
+@import url("https://v1.fontapi.ir/css/SFProDisplay");
+
 .platform-osx * {
   font-family: -apple-system, BlinkMacSystemFont, sans-serif !important;
   text-rendering: optimizeLegibility !important;
@@ -859,7 +848,7 @@ input[type=checkbox] {
 .peopleListItem-u6dGxF {
   backdrop-filter: blur(20px);
   box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.483);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   border-radius: 5px;
   background: var(--surCordFriends);
   margin-bottom: 13px;
@@ -872,7 +861,7 @@ input[type=checkbox] {
   box-shadow: 0 0 3px 1px rgba(26, 127, 251, 0.487);
   border-radius: 10px;
   transition: 0.3s;
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   border-radius: 5px;
   background: rgba(41, 38, 39, 0.276);
   margin-bottom: 13px;
@@ -917,7 +906,7 @@ input[type=checkbox] {
 .itemCard-3Etziu {
   backdrop-filter: blur(20px);
   box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.483);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   border-radius: 5px;
   background: var(--surCordActiveNow);
   margin-bottom: 13px;
@@ -926,7 +915,7 @@ input[type=checkbox] {
 }
 
 .section-3G9aLW:only-child {
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.483);
 }
 
@@ -951,7 +940,7 @@ input[type=checkbox] {
   box-shadow: 0 0 3px 1px rgba(26, 127, 251, 0.487);
   border-radius: 10px;
   transition: 0.3s;
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   border-radius: 5px;
   background: rgba(41, 38, 39, 0.276);
   margin-bottom: 15px;
@@ -966,7 +955,7 @@ input[type=checkbox] {
 .addFriendInputWrapper-kkoSV9 {
   backdrop-filter: blur(20px);
   box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.483);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   border-radius: 5px;
   background: var(--surCordFriends);
   margin-bottom: 13px;
@@ -985,7 +974,7 @@ input[type=checkbox] {
   background: rgba(0, 0, 0, 0.436) !important;
   backdrop-filter: blur(20px);
   box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   border-radius: 5px;
 }
 
@@ -1016,7 +1005,7 @@ input[type=checkbox] {
 .messages-23can0,
 .messageGroupWrapper-1jf_7C {
   box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   border-radius: 5px;
 }
 
@@ -1048,7 +1037,7 @@ input[type=checkbox] {
   background: rgba(0, 0, 0, 0.436) !important;
   backdrop-filter: blur(20px);
   box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   border-radius: 10px;
 }
 
@@ -1067,7 +1056,7 @@ input[type=checkbox] {
 }
 
 .role-2TIOKu {
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
 }
 
 .input-2z42oC {
@@ -1081,7 +1070,7 @@ input[type=checkbox] {
 .container-2O1UgZ {
   backdrop-filter: blur(20px);
   box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   border-radius: 5px;
   background: rgba(41, 38, 39, 0.276);
 }
@@ -1106,7 +1095,7 @@ input[type=checkbox] {
   background: rgba(0, 0, 0, 0.436);
   backdrop-filter: blur(10px);
   box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   border-radius: 5px;
 }
 
@@ -1171,7 +1160,7 @@ input[type=checkbox] {
   background: rgba(0, 0, 0, 0.436);
   backdrop-filter: blur(10px);
   box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   border-radius: 5px;
 }
 
@@ -1195,7 +1184,7 @@ input[type=checkbox] {
   background: rgba(0, 0, 0, 0.436);
   backdrop-filter: blur(10px);
   box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   border-radius: 5px;
 }
 
@@ -1213,7 +1202,7 @@ input[type=checkbox] {
   background: rgba(0, 0, 0, 0.436);
   backdrop-filter: blur(10px);
   box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   border-radius: 5px;
 }
 
@@ -1221,7 +1210,7 @@ input[type=checkbox] {
   background: rgba(0, 0, 0, 0.436);
   backdrop-filter: blur(10px);
   box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   border-radius: 5px;
 }
 
@@ -1257,7 +1246,7 @@ input[type=checkbox] {
   background: rgba(0, 0, 0, 0.436);
   backdrop-filter: blur(10px);
   box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   border-radius: 5px;
   margin-right: 5px;
   margin-left: 5px;
@@ -1273,7 +1262,7 @@ input[type=checkbox] {
   background: rgba(0, 0, 0, 0.436);
   backdrop-filter: blur(10px);
   box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   border-radius: 5px;
   border-radius: 20px;
   margin-right: 8px;
@@ -1336,7 +1325,7 @@ input[type=checkbox] {
   background: rgba(0, 0, 0, 0.436);
   backdrop-filter: blur(10px);
   box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   border-radius: 5px;
 }
 
@@ -1395,18 +1384,18 @@ input[type=checkbox] {
 .theme-dark .autocomplete-3NRXG8 {
   background: rgba(41, 38, 39, 0.276);
   backdrop-filter: blur(20px);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
 }
 
 .upload-vLbqu- {
   background: rgba(8, 4, 5, 0.429);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
 }
 
 .actionBar-1ozugS .wrapper-2vIMkT {
   background: rgba(8, 4, 5, 0.429);
   backdrop-filter: blur(3px);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   border-radius: 50px;
 }
 
@@ -1471,7 +1460,7 @@ input[type=checkbox] {
 .attachment-1PZZB2,
 .theme-dark .wrapperAudio-1Bzv_Z {
   box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   background: rgba(41, 38, 39, 0.276);
   font-family: "SF Mono", SFMono-Regular, ui-monospace, "DejaVu Sans Mono", Menlo, Consolas, monospace;
 }
@@ -1495,7 +1484,7 @@ input[type=checkbox] {
 .userSelectNone-3AtPzf {
   backdrop-filter: blur(20px);
   box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.483);
-  border: 1px solid rgb(78, 78, 81);
+  border: 1px solid rgb(20, 20, 20);
   border-radius: 5px;
   background: rgba(41, 38, 39, 0.276);
 }
