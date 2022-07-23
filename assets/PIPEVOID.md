@@ -24,8 +24,8 @@
   - `sudo ln -s /usr/share/alsa/alsa.conf.d/50-pipewire.conf /etc/alsa/conf.d`
   - `sudo ln -s /usr/share/alsa/alsa.conf.d/99-pipewire-default.conf /etc/alsa/conf.d`
 
-* Edit `/etc/pulse/client.conf` :
-  - by replacing `; autospawn = yes` with `autospawn = no`
+<!-- * Edit `/etc/pulse/client.conf` :
+  - by replacing `; autospawn = yes` with `autospawn = no` -->
 
 * Add `pipewire &` in your [XDG Autostart](https://wiki.archlinux.org/title/XDG_Autostart)
 
