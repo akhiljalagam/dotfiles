@@ -29,7 +29,9 @@
 
 * Add `pipewire &` in your [XDG Autostart](https://wiki.archlinux.org/title/XDG_Autostart)
 
-* Reboot (you may also now remove pulseaudio if you have it, `sudo xbps-remove -RF pulseaudio pulseaudio-utils`)
+* You may remove pulseaudio if you have it since it's useless (`sudo xbps-remove -RF pulseaudio pulseaudio-utils`)
+
+* Reboot
 
 Credit: [u/ajshell1's post](https://www.reddit.com/r/voidlinux/comments/lp5w87/how_i_got_pipewire_working_on_void_as_a_pulse/), altered their guide
 
