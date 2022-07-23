@@ -1,6 +1,6 @@
 ** **
 
-<h6 align="center"><img src="/images/2022-07-07-nocturnal.png" height="300"></h6>
+<table><tr><td><img src="/images/2022-07-07-nocturnal.png"></td></tr></table>
 
 <table align="right">
   <tr>
