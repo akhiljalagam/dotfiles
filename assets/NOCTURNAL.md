@@ -1,6 +1,6 @@
 ** **
 
-<table><tr><td><img src="/images/2022-07-07-nocturnal.png"></td></tr></table>
+<table><tr><td><img src="/images/2022-07-23-nocturnal.png"></td></tr></table>
 
 <table align="right">
   <tr>
