@@ -7,7 +7,7 @@
 
 <img src="https://i.kym-cdn.com/photos/images/newsfeed/001/870/394/fc2.jpg" align="right" width="200">
 <p><b>NEOVIM DOT</b> ・ <a href="https://github.com/Manas140/Conscious">Conscious</a></p>
-<p><b>BETTERDISCORD</b> ・ <a href="https://betterdiscord.app/theme/DiscordNight">DiscordNight</a></p>
+<p><b>BETTERDISCORD</b> ・ <a href="https://github.com/SlippingGitty/surCord">surCord</a></p>
 </br>
 </br>
 </br>
