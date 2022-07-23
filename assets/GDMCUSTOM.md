@@ -28,5 +28,5 @@ Credit: [u/oranki0911's reply](https://www.reddit.com/r/linuxquestions/comments/
 
 <br/>
 
-[← Go back](https://github.com/czarhex/dotfiles#readme)
+<a href="https://github.com/czarhex/dotfiles#readme"><b>⬅ RETURN</b></a>
 ** **
