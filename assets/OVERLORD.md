@@ -23,13 +23,6 @@
     </td>
     <td>Dark</td>
   </tr>
-  <tr>
-    <td><b>QT</b></td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">ABC</a>
-    </td>
-    <td>N/A</td>
-  </tr>
 </table>
 
 <h6>Shell</h6>
@@ -41,11 +34,9 @@ zshell + <a href="https://ohmyz.sh/">ohmyzsh</a> + <a href="https://github.com/r
   <li><b>Interface:</b> <a href="https://www.cufonfonts.com/font/sf-pro-display">SF Pro Display</a></li>
 </ul>
 
-<table align="right">
-<tr>
-  <td>
+
   <details>
-  <summary>Gnome Extensions<i> (Click to reveal)</i></summary>
+  <summary><h6>Gnome Extensions<i> (Click to reveal)</i></h6></summary>
   <ul>
     <li><a href="https://extensions.gnome.org/extension/615/appindicator-support/">Appindicator support</a></li>
     <li><a href="https://extensions.gnome.org/extension/3499/application-volume-mixer/">Application Volume Mixer</a></li>
@@ -59,12 +50,11 @@ zshell + <a href="https://ohmyz.sh/">ohmyzsh</a> + <a href="https://github.com/r
     <li><a href="https://extensions.gnome.org/extension/2741/remove-alttab-delay-v2/">Remove Alt+Tab Delay</a></li>
     <li><a href="https://extensions.gnome.org/extension/4135/espresso/">Espresso</a></li>
     <li><a href="https://extensions.gnome.org/extension/3193/blur-my-shell/">Blur My Shell</a></li>
+    <br></br>
   </ul>
   </details>
-  </td>
-</tr>
-</table>
+
 </br>
 
-<a href="https://github.com/czarhex/dotfiles#readme"><b>⌘ RETURN</b></a>
+<a href="https://github.com/czarhex/dotfiles#readme"><kbd><b>⌘ RETURN</b></kbd></a>
 ** **
