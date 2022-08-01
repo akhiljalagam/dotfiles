@@ -37,5 +37,5 @@ Credit: [u/ajshell1's post](https://www.reddit.com/r/voidlinux/comments/lp5w87/h
 
 <br/>
 
-<a href="https://github.com/czarhex/dotfiles#readme"><b>⬅ RETURN</b></a>
+<a href="https://github.com/czarhex/dotfiles#readme"><kbd><b>⌘ RETURN</b></kbd></a>
 ** **
