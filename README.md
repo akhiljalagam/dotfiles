@@ -23,7 +23,8 @@
       <a href="https://github.com/czarhex/dotfiles/blob/main/assets/OVERLORD.md#shell"><b>此方 </b><img src="https://voidlinux.org/assets/img/void_bg.png" width="13"></a> 
     </td>
     <td>
-      Desktop
+      <!-- Desktop -->
+      <img src="https://img.shields.io/static/v1?label=&message=desk workstation&color=222222&labelColor=179C7D&style=flat-square&logo=testinglibrary&logoColor=white" height="24">
     </td>
   </tr>
   <tr>
@@ -32,7 +33,8 @@
       <a href="https://github.com/czarhex/dotfiles/blob/main/assets/NOCTURNAL.md#shell"><b>此方 </b><img src="https://voidlinux.org/assets/img/void_bg.png" width="13"></a> 
     </td>
     <td>
-      Thinkpad <b>X260</b>
+      <!-- Thinkpad <b>X260</b> -->
+      <img src="https://img.shields.io/static/v1?label=&message=thinkpad X260&color=222222&labelColor=EE2624&style=flat-square&logo=thinkpad&logoColor=white" height="24">
     </td>
   </tr>
   <tr>
@@ -41,7 +43,8 @@
       <a href="https://www.youtube.com/watch?v=KrwdRMWnt14&t=12s"><b>此方 </b><img src="https://voidlinux.org/assets/img/void_bg.png" width="13"></a> 
     </td>
     <td>
-      Thinkpad <b>X60</b>
+      <!-- Thinkpad <b>X60</b> -->
+      <img src="https://img.shields.io/static/v1?label=&message=thinkpad X60&color=222222&labelColor=1261FE&style=flat-square&logo=thinkpad&logoColor=white" height="24">
     </td>
   </tr>
 </table> 
