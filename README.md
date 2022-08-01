@@ -10,7 +10,7 @@
 
 ** **
 
-<img src="https://c.tenor.com/6amuFPmzdmIAAAAd/lycoris-recoil-takina.gif" align="right" height="353">
+<img src="https://c.tenor.com/6amuFPmzdmIAAAAd/lycoris-recoil-takina.gif" align="right" height="340">
  <table>
   <tr>
     <th>Name</th>
@@ -51,12 +51,12 @@
 
 ** **
 <!-- <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Other/Chihiro_Komiya_Reading_Linux_Kernel_Book.png" align="right" width="267"> -->
-  <b>How to </b>ー 
+  <b>How to</b>・
   <a href=https://github.com/czarhex/dotfiles/blob/main/assets/PIPEVOID.md>
     <img src="https://fedoraloveskde.org/pipewire_logo.svg" width="15"> Pipewire on Void <img src="https://voidlinux.org/assets/img/void_bg.png" width="13"> w/ Wireplumber
   </a>
   <br>
-  <b>How to </b>ー 
+  <b>How to</b>・
   <a href=https://github.com/czarhex/dotfiles/blob/main/assets/GDMCUSTOM.md>
     <img src="https://www.nicepng.com/png/full/368-3682089_ubuntu-gnome-logo-png.png" width="15"> Customize GDM and change display config
   </a>
@@ -75,6 +75,5 @@
   <br></br>
   <b>CJK and Emoji fonts:</b> noto-fonts-cjk, noto-fonts-emoji
 </details>
-<br>
 
 ** **
