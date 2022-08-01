@@ -68,7 +68,7 @@ zshell + <a href="https://ohmyz.sh/">ohmyzsh</a> + <a href="https://github.com/r
 </table>
 </br>
 
-<a href="https://github.com/czarhex/dotfiles#readme"><b>⬅ RETURN</b></a>
+<a href="https://github.com/czarhex/dotfiles#readme"><b>⌘ RETURN</b></a>
 ** **
 <h6>Miscellaneous</h6>
 TLP, networkmananger-openvpn plugin w/ ProtonVPN
