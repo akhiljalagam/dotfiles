@@ -1,55 +1,53 @@
 <div>
 
-<img src="https://forthebadge.com/images/badges/compatibility-club-penguin.svg" align="right" height="28">
-<img src="https://forthebadge.com/images/badges/just-plain-nasty.svg" align="right" height="28">
-<img src="https://forthebadge.com/images/badges/built-with-swag.svg" align="right" height="28">
+<img src="https://img.shields.io/badge/dots-%23EA4AAA.svg?style=for-the-badge&logo=github&logoColor=white" align="right">
+<img src="https://img.shields.io/badge/I3--GAPS-%236929C4.svg?style=for-the-badge&logo=gnometerminal&logoColor=white" align="right">
+<img src="https://img.shields.io/badge/GNOME-%232284F2.svg?style=for-the-badge&logo=gnome&logoColor=white" align="right">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" align="right">
 
 <h3>ドットファイル ⋅ ⋅ ⋅</h3>
 </div>
 
 ** **
 
-<img src="/images/lycoris-recoil-takina-inoue.gif" align="right" width="267">
+<img src="https://c.tenor.com/6amuFPmzdmIAAAAd/lycoris-recoil-takina.gif" align="right" height="353">
  <table>
   <tr>
-    <th>𝗦𝗘𝗧𝗨𝗣</th>
-    <th>𝗜𝗡𝗙𝗢</th>
-    <th>𝗦𝗣𝗘𝗖𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦</th>
+    <th>Name</th>
+    <th>Info</th>
+    <th>Spec</th>
   </tr>
   <tr>
-    <td>Overlord</td>
+    <td>overlord</td>
     <td>
-      <a href="https://github.com/czarhex/dotfiles/blob/main/assets/OVERLORD.md#shell">此方 <img src="https://voidlinux.org/assets/img/void_bg.png" width="13"></a> 
+      <a href="https://github.com/czarhex/dotfiles/blob/main/assets/OVERLORD.md#shell"><b>此方 </b><img src="https://voidlinux.org/assets/img/void_bg.png" width="13"></a> 
     </td>
     <td>
-      <code>B360M-PROVD, i5-8600, 32GB, 1650S</code>
-      <img src="https://storage-asset.msi.com/global/picture/image/feature/mb/B550M/PRO-DASH/pro-icon-gray.png" width="40">
-    </td>
-  </tr>
-  <tr>
-    <td>Nocturnal</td>
-    <td>
-      <a href="https://github.com/czarhex/dotfiles/blob/main/assets/NOCTURNAL.md#shell">此方 <img src="https://voidlinux.org/assets/img/void_bg.png" width="13"></a> 
-    </td>
-    <td>
-      <code>Lenovo X260, i5-6200U, 8GB, HD520</code>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/ThinkPad_Logo.svg/2560px-ThinkPad_Logo.svg.png" width="40">
+      Desktop
     </td>
   </tr>
   <tr>
-    <td>Evocative</td>
+    <td>nocturnal</td>
     <td>
-      <a href="https://www.youtube.com/watch?v=KrwdRMWnt14&t=12s">此方 <img src="https://voidlinux.org/assets/img/void_bg.png" width="13"></a> 
+      <a href="https://github.com/czarhex/dotfiles/blob/main/assets/NOCTURNAL.md#shell"><b>此方 </b><img src="https://voidlinux.org/assets/img/void_bg.png" width="13"></a> 
     </td>
     <td>
-      <code>IBM X60, L2400, 4GB, GMA 950</code>
-      <img src="https://static.wikia.nocookie.net/logopedia/images/b/b4/IBM_ThinkPad.svg/revision/latest?cb=20200912124837" width="30">
+      Thinkpad <b>X260</b>
+    </td>
+  </tr>
+  <tr>
+    <td>evocative</td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=KrwdRMWnt14&t=12s"><b>此方 </b><img src="https://voidlinux.org/assets/img/void_bg.png" width="13"></a> 
+    </td>
+    <td>
+      Thinkpad <b>X60</b>
     </td>
   </tr>
 </table> 
 
 ** **
-<img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Other/Chihiro_Komiya_Reading_Linux_Kernel_Book.png" align="right" width="267">
+<!-- <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Other/Chihiro_Komiya_Reading_Linux_Kernel_Book.png" align="right" width="267"> -->
 <ul>
   <li>
   <b>How to </b>ー 
@@ -66,7 +64,8 @@
   <li>
     <details>
   <summary><h6>Extra notes</h6></summary>
-  <b>ACPI errors?</b> change "loglevel=4" in <code>/etc/default/grub</code> to "loglevel=0" and <code>sudo update-grub</code> 
+  <b>ACPI errors?</b> change "loglevel=4" in <code>/etc/default/grub</code> to "loglevel=0" <br>
+  and <code>sudo update-grub</code> 
   <br></br>
   <b>Bad TTY and GRUB resolution?</b> Add these in there:
   <pre><code>
