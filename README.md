@@ -48,20 +48,16 @@
 
 ** **
 <!-- <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/Other/Chihiro_Komiya_Reading_Linux_Kernel_Book.png" align="right" width="267"> -->
-<ul>
-  <li>
   <b>How to </b>ー 
   <a href=https://github.com/czarhex/dotfiles/blob/main/assets/PIPEVOID.md>
     <img src="https://fedoraloveskde.org/pipewire_logo.svg" width="15"> Pipewire on Void <img src="https://voidlinux.org/assets/img/void_bg.png" width="13"> w/ Wireplumber
   </a>
-  </li>
-  <li>
+  <br>
   <b>How to </b>ー 
   <a href=https://github.com/czarhex/dotfiles/blob/main/assets/GDMCUSTOM.md>
     <img src="https://www.nicepng.com/png/full/368-3682089_ubuntu-gnome-logo-png.png" width="15"> Customize GDM and change display config
   </a>
-  </li>
-  <li>
+  <br>
     <details>
   <summary><h6>Extra notes</h6></summary>
   <b>ACPI errors?</b> change "loglevel=4" in <code>/etc/default/grub</code> to "loglevel=0" <br>
@@ -76,8 +72,6 @@
   <br></br>
   <b>CJK and Emoji fonts:</b> noto-fonts-cjk, noto-fonts-emoji
 </details>
-  </li>
-</ul> 
 <br>
 
 ** **
