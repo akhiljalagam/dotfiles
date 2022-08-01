@@ -2,41 +2,19 @@
 
 <table align="center"><tr><td><img src="/images/2022-07-23-nocturnal.png" width="600"></td></tr></table>
 
+<div align="center">
+<a href="https://www.pling.com/p/1661959"><img src="https://img.shields.io/static/v1?label=GTK&message=Colloid&color=222222&labelColor=7F2B7B&style=for-the-badge&logo=gtk&logoColor=white"></a>
+<a href="https://www.pling.com/p/1405756"><img src="https://img.shields.io/static/v1?label=ICONS&message=WhiteSur&color=222222&labelColor=7F2B7B&style=for-the-badge&logo=gtk&logoColor=white"></a>
+<a href="https://www.pling.com/p/1690782"><img src="https://img.shields.io/static/v1?label=CURSORS&message=Phinger&color=222222&labelColor=7F2B7B&style=for-the-badge&logo=gtk&logoColor=white"></a>
+</div>
+
+** **
+
 <table align="right">
   <tr>
-    <td><b>GTK</b></td>
-    <td>
-      <a href="https://www.pling.com/p/1661959">Colloid</a>
-    </td>
-    <td>Rimless, Black</td>
-  </tr>
-  <tr>
-    <td><b>Icons</b></td>
-    <td>
-      <a href="https://www.pling.com/p/1405756">WhiteSur</a>
-    </td>
-    <td>Black panel, Bold</td>
-  </tr>
-  <tr>
-    <td><b>Cursors</b></td>
-    <td>
-      <a href="https://www.pling.com/p/1690782">Phinger</a>
-    </td>
-    <td>Dark</td>
-  </tr>
-</table>
-
-<h6>Shell</h6>
-zshell + <a href="https://ohmyz.sh/">ohmyzsh</a> + <a href="https://github.com/romkatv/powerlevel10k">powerlevel10k</a> + <a href="https://github.com/zsh-users/zsh-autosuggestions">autosuggestions</a>
-
-<h6>Font</h6>
-<ul>
-  <li><b>Monospace:</b> <a href="https://www.nerdfonts.com/font-downloads">IBM Plex Nerd</a></li>
-  <li><b>Interface:</b> <a href="https://www.cufonfonts.com/font/sf-pro-display">SF Pro Display</a></li>
-</ul>
-
+  <td>
   <details>
-  <summary><h6>Gnome Extensions<i> (Click to reveal)</i></h6></summary>
+    <summary><h6>Gnome Extensions<i> (Click to reveal)</i></h6></summary>
   <ul>
     <li><a href="https://extensions.gnome.org/extension/615/appindicator-support/">Appindicator support</a></li>
     <li><a href="https://extensions.gnome.org/extension/3499/application-volume-mixer/">Application Volume Mixer</a></li>
@@ -54,10 +32,22 @@ zshell + <a href="https://ohmyz.sh/">ohmyzsh</a> + <a href="https://github.com/r
     <br></br>
   </ul>
   </details>
+  </td>
+  </tr>
+</table>
+
+<div><img src="https://img.shields.io/static/v1?label=&message=shell&color=222222&labelColor=179C7D&style=flat-square&logo=powershell&logoColor=white" height="24"> &nbsp; → zshell + <a href="https://ohmyz.sh/">ohmyzsh</a> + <a href="https://github.com/romkatv/powerlevel10k">powerlevel10k</a> + <a href="https://github.com/zsh-users/zsh-autosuggestions">autosuggestions</a></div>
+
+<img src="https://img.shields.io/static/v1?label=&message=fonts&color=222222&labelColor=179C7D&style=flat-square&logo=adobefonts&logoColor=white" height="24" align="center"> &nbsp; 
+<ul>
+  <li><b>Monospace </b>: <a href="https://www.nerdfonts.com/font-downloads"><b>IBM Plex Nerd</b></a></li>
+  <li><b>Interface </b>: <a href="https://www.cufonfonts.com/font/sf-pro-display"><b>SF Pro Display</b></a></li>
+</ul>
 
 </br>
 
 <a href="https://github.com/czarhex/dotfiles#readme"><kbd><b>⌘ RETURN</b></kbd></a>
 ** **
+
 <h6>Miscellaneous</h6>
 TLP, networkmananger-openvpn plugin w/ ProtonVPN
