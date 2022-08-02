@@ -44,7 +44,7 @@
     </td>
     <td>
       <!-- Thinkpad <b>X60</b> -->
-      <img src="https://img.shields.io/static/v1?label=&message=thinkpad X60&color=222222&labelColor=1261FE&style=flat-square&logo=thinkpad&logoColor=white" height="24">
+      <img src="https://img.shields.io/static/v1?label=&message=thinkpad X60&color=222222&labelColor=1261FE&style=flat-square&logo=ibm&logoColor=white" height="24">
     </td>
   </tr>
 </table> 
