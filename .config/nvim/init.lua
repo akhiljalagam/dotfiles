@@ -4,7 +4,7 @@ cmd = vim.cmd
 opt = vim.opt
 g = vim.g
 
-_G.theme = "paraczar"
+_G.theme = "yuri"
 
 local modules = {
   'options',
