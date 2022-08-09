@@ -64,7 +64,7 @@
   <a href=https://github.com/czarhex/dotfiles/blob/main/assets/BDFLAT.md>
     <img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" width="15"> BD on Flatpak 
     <img src="https://flathub.org/assets/themes/flathub/flathub-logo.png" width="17">
-  </a> <b>(+ plugins & themes I use)</b>
+  </a> <b>(+ mods I use)</b>
   <br>
     <details>
   <summary><h6>Extra notes</h6></summary>
