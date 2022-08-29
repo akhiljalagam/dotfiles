@@ -27,4 +27,4 @@ Credit: [u/oranki0911's reply](https://www.reddit.com/r/linuxquestions/comments/
 
 <br>
 <hr>
-<a href="https://github.com/czarhex/dotfiles#readme"><h3><b>↩ 戻る</b></h3></a>
+<h3><a href="https://github.com/czarhex/dotfiles#readme"><b>↩ 戻る</b></a></h3>
