@@ -26,10 +26,10 @@
   </tr>
 </table> 
 
-<hr>
-
-  <b>How to</b>・
-  <a href=https://github.com/czarhex/dotfiles/blob/main/assets/PIPEVOID.md>
+  <details>
+    <summary><b>【 My guides 】</b></summary>
+    <b>How to</b>・
+    <a href=https://github.com/czarhex/dotfiles/blob/main/assets/PIPEVOID.md>
     Pipewire on Void w/ Wireplumber
   </a>
   <br>
@@ -42,11 +42,10 @@
   <a href=https://github.com/czarhex/dotfiles/blob/main/assets/BDFLAT.md>
     BD on Flatpak 
   </a>
-
-  <br>
+  </details>
 
   <details>
-    <summary><h6>Extra notes</h6></summary>
+    <summary><b>【 Extra notes 】</b></summary>
     <b>ACPI errors?</b> change "loglevel=4" in <code>/etc/default/grub</code> to "loglevel=0" <br>
     and <code>sudo update-grub</code> 
     <br></br>
@@ -59,5 +58,3 @@
     <br></br>
     <b>CJK and Emoji fonts:</b> noto-fonts-cjk, noto-fonts-emoji
   </details>
-
-<hr>
