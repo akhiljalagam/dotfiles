@@ -1,6 +1,5 @@
-** **
-
-<br/>
+<hr>
+<br>
 <a href="https://github.com/realmazharhussain/gdm-settings"><img src="https://raw.githubusercontent.com/wiki/realmazharhussain/gdm-settings/screenshots/screenshot-1.png" align="right" width="370"></a>
 
 ### How to: Customize GDM properly and easily
@@ -26,7 +25,6 @@ this can happen depending on what displays you have and how are they connected a
 
 Credit: [u/oranki0911's reply](https://www.reddit.com/r/linuxquestions/comments/v34j6q/gdm_user_list_on_second_screen_can_i_change_that/iaxdnwo/?context=3) on my reddit post.
 
-<br/>
-
-<a href="https://github.com/czarhex/dotfiles#readme"><kbd><b>⌘ RETURN</b></kbd></a>
-** **
+<br>
+<hr>
+<a href="https://github.com/czarhex/dotfiles#readme"><h3><b>↩ 戻る</b></h3></a>

@@ -1,6 +1,5 @@
-** **
-
-<br/>
+<hr>
+<br>
 <img src="https://fedoraloveskde.org/pipewire_logo.svg" align="right" width="175">
 <img src="https://voidlinux.org/assets/img/void_bg.png" align="right" width="100">
 
@@ -35,7 +34,6 @@
 
 Credit: [u/ajshell1's post](https://www.reddit.com/r/voidlinux/comments/lp5w87/how_i_got_pipewire_working_on_void_as_a_pulse/), altered their guide
 
-<br/>
-
-<a href="https://github.com/czarhex/dotfiles#readme"><kbd><b>⌘ RETURN</b></kbd></a>
-** **
+<br>
+<hr>
+<a href="https://github.com/czarhex/dotfiles#readme"><h3><b>↩ 戻る</b></h3></a>

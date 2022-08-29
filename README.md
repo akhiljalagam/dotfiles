@@ -1,84 +1,63 @@
-<div>
-
-<img src="https://img.shields.io/badge/dots-%23EA4AAA.svg?style=for-the-badge&logo=github&logoColor=white" align="right">
-<img src="https://img.shields.io/badge/I3--GAPS-%236929C4.svg?style=for-the-badge&logo=gnometerminal&logoColor=white" align="right">
-<img src="https://img.shields.io/badge/GNOME-%232284F2.svg?style=for-the-badge&logo=gnome&logoColor=white" align="right">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" align="right">
-
-<h3>ドットファイル ⋅ ⋅ ⋅</h3>
+<div align="center">
+  <img src="https://www.seekpng.com/png/full/988-9885238_anime-girl-neko-manga-fanart-animegirl-nekogirl-menhera.png" height="150px">
+  <h3><b>ドットファイル ⋅ ⋅ ⋅</b></h3>
+  <div>
+    <img src="https://img.shields.io/badge/dotfiles-%23DD66DD.svg?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GNOME-%232284F2.svg?style=for-the-badge&logo=gnome&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  </div>
 </div>
 
-** **
+<hr>
 
-<img src="https://c.tenor.com/6amuFPmzdmIAAAAd/lycoris-recoil-takina.gif" align="right" height="365">
- <table>
+ <table align="center">
   <tr>
-    <th>Name</th>
-    <th>Info</th>
-    <th>Spec</th>
-  </tr>
-  <tr>
-    <td>overlord</td>
     <td>
-      <a href="https://github.com/czarhex/dotfiles/blob/main/assets/OVERLORD.md#shell"><b>此方 </b><img src="https://voidlinux.org/assets/img/void_bg.png" width="13"></a> 
+      大君主 <a href="https://github.com/czarhex/dotfiles/blob/main/assets/OVERLORD.md#shell"><b>此方</b></a>
     </td>
+    <td>・</td>
     <td>
-      <!-- Desktop -->
-      <img src="https://img.shields.io/static/v1?label=&message=desk workstation&color=222222&labelColor=179C7D&style=flat-square&logo=testinglibrary&logoColor=white" height="24">
+      夜行性 <a href="https://github.com/czarhex/dotfiles/blob/main/assets/NOCTURNAL.md#shell"><b>此方</b></a>
     </td>
-  </tr>
-  <tr>
-    <td>nocturnal</td>
+    <td>・</td>
     <td>
-      <a href="https://github.com/czarhex/dotfiles/blob/main/assets/NOCTURNAL.md#shell"><b>此方 </b><img src="https://voidlinux.org/assets/img/void_bg.png" width="13"></a> 
-    </td>
-    <td>
-      <!-- Thinkpad <b>X260</b> -->
-      <img src="https://img.shields.io/static/v1?label=&message=thinkpad X260&color=222222&labelColor=EE2624&style=flat-square&logo=thinkpad&logoColor=white" height="24">
-    </td>
-  </tr>
-  <tr>
-    <td>evocative</td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=KrwdRMWnt14&t=12s"><b>此方 </b><img src="https://voidlinux.org/assets/img/void_bg.png" width="13"></a> 
-    </td>
-    <td>
-      <!-- Thinkpad <b>X60</b> -->
-      <img src="https://img.shields.io/static/v1?label=&message=thinkpad X60&color=222222&labelColor=1261FE&style=flat-square&logo=ibm&logoColor=white" height="24">
+      逞しい <a href="https://www.youtube.com/watch?v=KrwdRMWnt14&t=12s"><b>此方</b></a>
     </td>
   </tr>
 </table> 
 
-** **
+<hr>
+
   <b>How to</b>・
   <a href=https://github.com/czarhex/dotfiles/blob/main/assets/PIPEVOID.md>
-    <img src="https://fedoraloveskde.org/pipewire_logo.svg" width="15"> Pipewire on Void <img src="https://voidlinux.org/assets/img/void_bg.png" width="13"> w/ Wireplumber
+    Pipewire on Void w/ Wireplumber
   </a>
   <br>
   <b>How to</b>・
   <a href=https://github.com/czarhex/dotfiles/blob/main/assets/GDMCUSTOM.md>
-    <img src="https://www.nicepng.com/png/full/368-3682089_ubuntu-gnome-logo-png.png" width="15"> Customize GDM and change display config
+    Customize GDM and change display config
   </a>
   <br>
   <b>How to</b>・
   <a href=https://github.com/czarhex/dotfiles/blob/main/assets/BDFLAT.md>
-    <img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" width="15"> BD on Flatpak 
-    <img src="https://flathub.org/assets/themes/flathub/flathub-logo.png" width="17">
-  </a> <b>(+ mods I use)</b>
-  <br>
-    <details>
-  <summary><h6>Extra notes</h6></summary>
-  <b>ACPI errors?</b> change "loglevel=4" in <code>/etc/default/grub</code> to "loglevel=0" <br>
-  and <code>sudo update-grub</code> 
-  <br></br>
-  <b>Bad TTY and GRUB resolution?</b> Add these in there:
-  <pre><code>
-  GRUB_GFXMODE=1920x1080x32
-  GRUB_GFXPAYLOAD_LINUX=1920x1080x32
-  </code></pre>
-  <b>NVIDIA?</b> <code>nvidia-drm.modeset=1</code>
-  <br></br>
-  <b>CJK and Emoji fonts:</b> noto-fonts-cjk, noto-fonts-emoji
-</details>
+    BD on Flatpak 
+  </a>
 
-** **
+  <br>
+
+  <details>
+    <summary><h6>Extra notes</h6></summary>
+    <b>ACPI errors?</b> change "loglevel=4" in <code>/etc/default/grub</code> to "loglevel=0" <br>
+    and <code>sudo update-grub</code> 
+    <br></br>
+    <b>Bad TTY and GRUB resolution?</b> Add these in there:
+    <pre><code>
+    GRUB_GFXMODE=1920x1080x32
+    GRUB_GFXPAYLOAD_LINUX=1920x1080x32
+    </code></pre>
+    <b>NVIDIA?</b> <code>nvidia-drm.modeset=1</code>
+    <br></br>
+    <b>CJK and Emoji fonts:</b> noto-fonts-cjk, noto-fonts-emoji
+  </details>
+
+<hr>
