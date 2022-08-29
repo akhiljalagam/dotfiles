@@ -60,4 +60,4 @@ TLP, networkmananger-openvpn plugin w/ ProtonVPN
 
 </br>
 <hr>
-<a href="https://github.com/czarhex/dotfiles#readme"><h3><b>↩ 戻る</b></h3></a>
+<h3><a href="https://github.com/czarhex/dotfiles#readme"><b>↩ 戻る</b></a></h3>
