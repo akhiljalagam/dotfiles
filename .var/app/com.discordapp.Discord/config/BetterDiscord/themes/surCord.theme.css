@@ -1,7 +1,7 @@
 /**
  * @name surCord
  * @author Vozer
- * @version 07.2022
+ * @version 08.2022
  * @description A Discord theme inspired by Human Design.
  * @source https://github.com/SlippingGitty/surCord/
  * @website https://slippinggitty.github.io/
@@ -10,13 +10,13 @@
 /*
                     'c.          discord@DiscordTheme.local 
                  ,xNMM.          ----------------------- 
-               .OMMMMo           OS: surCord 07.22 css 
+               .OMMMMo           OS: surCord 08.22 css 
                OMMM0,            Host: DiscordCanary0,1 
      .;loddo:' loolloddol;.      Kernel: 0.0.285
    cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 09 hours, 15 mins 
- .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 20 (plugins) 
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 4800 (plugins) 
  XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: Powercord, BetterDiscord, BeautifulDiscord,
-;MMMMMMMMMMMMMMMMMMMMMMMM:              Astra, Goosemod, Stylus 
+;MMMMMMMMMMMMMMMMMMMMMMMM:              Goosemod, Stylus 
 :MMMMMMMMMMMMMMMMMMMMMMMM:       DE: ImagineAPlace
 .MMMMMMMMMMMMMMMMMMMMMMMMX.      WM: Vozer
  kMMMMMMMMMMMMMMMMMMMMMMMMWd.    WM Theme: Blurple
@@ -27,21 +27,22 @@
        .cooc,.    .,coo:.       
 */
 
-
 /*
 ----------Accents---------
 > Only one Accent can be uncommented at a time.
 > Feel free to contribute https://github.com/SlippingGittys-Discord-Themes/surCord/tree/main/src/fixations/additions/ Accents
 */
 
+  @import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/accents/red.css'); 
 /* @import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/accents/red.css'); */
 /* @import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/accents/yellow.css'); */
 /* @import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/accents/pink.css'); */
 /* @import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/accents/materialblue.css'); */
-@import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/accents/hatsune.css');
+/* @import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/accents/hatsune.css'); */
 /* @import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/accents/nord.css'); */
 /* @import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/accents/dracula.css'); */
 /* @import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/accents/fuoco.css'); */
+/* @import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/accents/tokyo.css'); */
 /* @import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/accents/dark.css'); */
 /* @import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/accents/apple.css'); */
 
@@ -51,9 +52,14 @@
 > Feel free to contribute https://github.com/SlippingGittys-Discord-Themes/surCord/tree/main/src/fixations/additions/themes
 */
 
-/* @import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/themes/default.css'); */
+ @import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/themes/amoledc.css'); 
 /* @import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/themes/amoled.css'); */
-@import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/themes/amoledc.css');
+/* @import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/themes/amoledc.css'); */
+/* @import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/themes/materialdark.css'); */
+/* @import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/themes/nordtheme.css'); */
+/* @import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/themes/dracula.css'); */
+/* @import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/themes/fuoco.css'); */
+/* @import url('https://slippinggittys-discord-Themes.github.io/surCord/src/fixations/additions/themes/tokyonight.css'); */
 
 /*
 -----------Source---------
@@ -68,22 +74,20 @@
 > Designed by Apple in California - SAN FRANSISCO DISPLAY - https://developer.apple.com/fonts/ 
 */
 
-.platform-osx * {
-  font-family: -apple-system, BlinkMacSystemFont, sans-serif !important;
-  text-rendering: optimizeLegibility !important;
+/* Uncomment the line below to use Apple's Emoji font */
+/* @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css); */
+
+* {
+  --font-primary: -apple-system,BlinkMacSystemFont,"SF Pro Display",sans-serif;
+  --font-display: -apple-system,BlinkMacSystemFont,"SF Pro Display",sans-serif;
+  --font-headline: -apple-system,BlinkMacSystemFont,"SF Pro Display",sans-serif;
+  --font-code: "SF Mono",mono,monospace;
+  text-rendering: optimizeLegibility;
   /* font-weight: bold; */
   text-transform: none;
 }
 
-.platform-linux *,
-.platform-win * {
-  font-family: "SF Pro Display", sans-serif !important;
-  text-rendering: optimizeLegibility !important;
-  /* font-weight: bold; */
-  text-transform: none;
-}
-
-@import url("https://v1.fontapi.ir/css/SFProDisplay");
+@import url("https://rawcdn.githack.com/yurifuko/SanFranciscoFontCSS/a4610187cea84b884f8c054d7118aff1496a9b01/SFFont.css");
 
 /* 
 /////////////////////////////////////////
