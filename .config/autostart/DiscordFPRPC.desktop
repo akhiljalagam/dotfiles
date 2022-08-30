@@ -1,6 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=DiscordFPRPC
-Exec=bash -c "~/.config/DiscordFlatpakRPC.sh"
-StartupNotify=false
-Terminal=false
