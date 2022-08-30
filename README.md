@@ -57,4 +57,6 @@
     <b>NVIDIA?</b> <code>nvidia-drm.modeset=1</code>
     <br></br>
     <b>CJK and Emoji fonts:</b> noto-fonts-cjk, noto-fonts-emoji
+    <br></br>
+    Both autostart .desktop and .sh need to be <b>executable</b>: <code>sudo chmod +x ~/.config/...</code>
   </details>
