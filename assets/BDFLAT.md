@@ -1,7 +1,7 @@
 <hr>
 <br>
-<img src="https://avatars.githubusercontent.com/u/27268838?s=280&v=4" align="right" width="110"></a>
-<img src="https://www.svgrepo.com/show/353655/discord-icon.svg" align="right" width="100"></a>
+<img src="https://avatars.githubusercontent.com/u/27268838?s=280&v=4" align="right" width="150"></a>
+<img src="https://www.svgrepo.com/show/353655/discord-icon.svg" align="right" width="150"></a>
 
 ### How to: BetterDiscord on Flatpak
 
