@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Discord Flatpak RPC
+Comment=Enables discord flatpak to detect RPC from unsandboxed apps
+Exec=bash -c "~/.config/DiscordFlatpakRPC.sh"
+StartupNotify=false
+Terminal=false
+Icon=emblem-synchronizing
