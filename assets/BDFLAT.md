@@ -3,7 +3,7 @@
 <img src="https://avatars.githubusercontent.com/u/27268838?s=280&v=4" align="right" width="110"></a>
 <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" align="right" width="100"></a>
 
-## How to: BetterDiscord on Flatpak
+### How to: BetterDiscord on Flatpak
 
 Install [Discord Flatpak](https://flathub.org/apps/details/com.discordapp.Discord)  
 * `flatpak install flathub com.discordapp.Discord`
