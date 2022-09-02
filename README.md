@@ -28,9 +28,8 @@
 
 <br>
 
-<div align="center">
-  <details>
-  <summary><b>My guides</b></summary>
+
+
   <div align="left">
     <b>How to</b>・
     <a href=https://github.com/czarhex/dotfiles/blob/main/assets/PIPEVOID.md>
@@ -50,9 +49,8 @@
   </details>
 </div>
 
-<div align="center">
-  <details>
-  <summary><b>Extra notes</b></summary>
+<br>
+
   <div align="left">
     <br>
     <b>ACPI errors?</b> change "loglevel=4" in <code>/etc/default/grub</code> to "loglevel=0" <br>
