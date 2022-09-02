@@ -1,0 +1,8 @@
+.tfview {
+    width: 20px;
+    height: 18px;
+}
+.tfmodal pre {
+    max-width: 100%;
+    padding-bottom: 15px;
+}

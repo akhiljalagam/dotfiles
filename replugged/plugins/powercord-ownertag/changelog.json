@@ -1,0 +1,19 @@
+{
+    "date": "2022-08-23",
+    "image": "https://c.tenor.com/4blWuIh5MIYAAAAC/baby-yoda.gif",
+    "body": [
+        {
+            "type": "fixed",
+            "header": "Fixed",
+            "content": ["- **Owner Tag** Fixed `showOwnerTag` setting."]
+        },
+        {
+            "type": "added",
+            "header": "Added",
+            "content": [
+                "- **Bot Tags** Bot tags will now show in chat when `showForBots` setting is enabled."
+            ]
+        }
+    ],
+    "footer": ""
+}
