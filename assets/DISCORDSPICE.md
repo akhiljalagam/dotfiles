@@ -23,12 +23,14 @@ Keep Discord running while doing this.
 
 Make sure you don't have any discord files in `/usr/share/`, `/usr/lib64/`, `/opt/` etc.
 
+<!--
 #### BetterDiscord
 
 Install [betterdiscordctl](https://github.com/bb010g/betterdiscordctl).  
 *(Follow "Manual" installation)*
 
 * `betterdiscordctl -i flatpak install`
+-->
 
 <br>
 
