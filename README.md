@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- <img src="https://www.seekpng.com/png/full/988-9885238_anime-girl-neko-manga-fanart-animegirl-nekogirl-menhera.png" height="150px"> -->
+  <img src="https://www.seekpng.com/png/full/988-9885238_anime-girl-neko-manga-fanart-animegirl-nekogirl-menhera.png" height="150px">
   <h3><b>ドットファイル 。。。</b></h3>
   <div>
     <img src="https://img.shields.io/badge/dotfiles-%23DD66DD.svg?style=for-the-badge&logo=github&logoColor=white">
@@ -13,11 +13,11 @@
 <table align="center">
   <tr>
     <td>
-      <b>OVERLORD</b> <a href="https://github.com/czarhex/dotfiles/blob/main/assets/OVERLORD.md#shell"><b>【此方】</b></a>
+      <b>OVERLORD</b> <a href="https://github.com/yurifuko/dotfiles/blob/main/assets/OVERLORD.md#shell"><b>【此方】</b></a>
     </td>
     <td>・</td>
     <td>
-      <b>NOCTURNAL</b> <a href="https://github.com/czarhex/dotfiles/blob/main/assets/NOCTURNAL.md#shell"><b>【此方】</b></a>
+      <b>NOCTURNAL</b> <a href="https://github.com/yurifuko/dotfiles/blob/main/assets/NOCTURNAL.md#shell"><b>【此方】</b></a>
     </td>
     <td>・</td>
     <td>
@@ -32,18 +32,18 @@
 
   <div align="left">
     <b>How to</b>・
-    <a href=https://github.com/czarhex/dotfiles/blob/main/assets/PIPEVOID.md>
+    <a href=https://github.com/yurifuko/dotfiles/blob/main/assets/PIPEVOID.md>
       Pipewire on Void w/ Wireplumber
     </a>
   <br>
     <b>How to</b>・
-    <a href=https://github.com/czarhex/dotfiles/blob/main/assets/GDMCUSTOM.md>
+    <a href=https://github.com/yurifuko/dotfiles/blob/main/assets/GDMCUSTOM.md>
       Customize GDM and change display config
     </a>
   <br>
     <b>How to</b>・
-    <a href=https://github.com/czarhex/dotfiles/blob/main/assets/BDFLAT.md>
-      BD on Flatpak 
+    <a href=https://github.com/yurifuko/dotfiles/blob/main/assets/DISCORDSPICE.md>
+      Spice up your Discord on Flatpak 
     </a>
   </div>
   </details>
