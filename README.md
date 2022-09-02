@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://www.seekpng.com/png/full/988-9885238_anime-girl-neko-manga-fanart-animegirl-nekogirl-menhera.png" height="150px">
-  <h3><b>ドットファイル 。。。</b></h3>
+  <h3><b>~/. ドットファイル</b></h3>
   <div>
     <img src="https://img.shields.io/badge/dotfiles-%23DD66DD.svg?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/GNOME-%232284F2.svg?style=for-the-badge&logo=gnome&logoColor=white">
