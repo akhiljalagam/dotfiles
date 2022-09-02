@@ -31,5 +31,11 @@ Install [betterdiscordctl](https://github.com/bb010g/betterdiscordctl).
 * `betterdiscordctl -i flatpak install`
 
 <br>
+
+##### Rich presence/RPC on Flatpak
+
+https://github.com/flathub/com.discordapp.Discord/wiki/Rich-Precense-(discord-rpc)
+
+<br>
 <hr>
 <h3><a href="https://github.com/czarhex/dotfiles#readme"><b>↩ 戻る</b></a></h3>
