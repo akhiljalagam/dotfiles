@@ -40,4 +40,4 @@ https://github.com/flathub/com.discordapp.Discord/wiki/Rich-Precense-(discord-rp
 
 <br>
 <hr>
-<h3><a href="https://github.com/czarhex/dotfiles#readme"><b>↩ 戻る</b></a></h3>
+<h3><a href="https://github.com/yurifuko/dotfiles/wiki/Guides"><b>❮ 戻る</b></a></h3>
