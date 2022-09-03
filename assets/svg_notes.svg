@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 200" width="1300" height="200">
+	<title>New Project</title>
+	<defs>
+		<image  width="1300" height="201" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABRQAAADJAQMAAABosCz9AAAAAXNSR0IB2cksfwAAAANQTFRFDREXf6gIXgAAADZJREFUeJztwQENAAAAwqD3T20PBxQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8GCAxAABlC7pbAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 124px;fill: #ffffff;font-weight: 700;font-family: "SFMonoNerdFontComplete-Bold", "SF Mono" } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<text id="NOTES" style="transform: matrix(1,0,0,1,63,144)" >
+		<tspan x="0" y="0" class="t0">N</tspan><tspan  y="0" class="t0">O</tspan><tspan  y="0" class="t0">T</tspan><tspan  y="0" class="t0">E</tspan><tspan  y="0" class="t0">S
+</tspan>
+	</text>
+</svg>
