@@ -1,4 +1,4 @@
-![logo](assets/dotfileslogo.svg)
+![logo](assets/svg_dots.svg)
 
 ** **
 
