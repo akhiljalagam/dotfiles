@@ -1,4 +1,6 @@
-![image](https://user-images.githubusercontent.com/76652465/188223115-1035b447-5349-4e06-901d-90536c8424c9.png)
+![logo](assets/dotfileslogo.svg)
+
+** **
 
 <div align="center">
     <img src="https://img.shields.io/badge/dotfiles-%23DD66DD.svg?style=for-the-badge&logo=github&logoColor=white">
