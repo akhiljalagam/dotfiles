@@ -2,12 +2,6 @@
 
 ** **
 
-<div align="center">
-    <img src="https://img.shields.io/badge/dotfiles-%23DD66DD.svg?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/GNOME-%232284F2.svg?style=for-the-badge&logo=gnome&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</div>
-
 <br>
 
 <table align="center">
