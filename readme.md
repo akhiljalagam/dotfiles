@@ -1,4 +1,6 @@
-# ~/.*
+<code>
+
+<h3 align="center">~/.*</h3>
 
 <table align="center">
   <tr>
