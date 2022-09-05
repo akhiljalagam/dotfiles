@@ -1,4 +1,4 @@
-![logo](assets/svg_dots.svg)
+# ~/.*
 
 <table align="center">
   <tr>
