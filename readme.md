@@ -1,5 +1,3 @@
-![header image](https://files.catbox.moe/0lqudg.png)
-
 ```mermaid
 flowchart LR
 id1(["𝘄𝗶𝗸𝗶"])
